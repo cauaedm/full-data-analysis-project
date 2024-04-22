@@ -1,0 +1,3 @@
+ALTER TABLE orders MODIFY COLUMN order_date DATE;
+ALTER TABLE orders MODIFY COLUMN required_date DATE;
+ALTER TABLE orders MODIFY COLUMN shipped_date DATE;
