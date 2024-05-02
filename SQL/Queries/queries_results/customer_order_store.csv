@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,customer_email,order_id,order_date,required_date,shipped_date,staff_id,store_name,store_email
+259,Johnathan,Velazquez,johnathan.velazquez@hotmail.com,1,2016-01-01,2016-01-03,2016-01-03,2,"Santa Cruz Bikes",santacruz@bikes.shop
+175,Nova,Hess,nova.hess@msn.com,4,2016-01-03,2016-01-04,2016-01-05,3,"Santa Cruz Bikes",santacruz@bikes.shop
+60,Neil,Mccall,neil.mccall@gmail.com,9,2016-01-05,2016-01-08,2016-01-08,2,"Santa Cruz Bikes",santacruz@bikes.shop
+91,Marvin,Mullins,marvin.mullins@aol.com,12,2016-01-06,2016-01-08,2016-01-09,2,"Santa Cruz Bikes",santacruz@bikes.shop
+258,Maribel,William,maribel.william@aol.com,14,2016-01-09,2016-01-11,2016-01-12,3,"Santa Cruz Bikes",santacruz@bikes.shop
+552,Lea,Key,lea.key@yahoo.com,16,2016-01-12,2016-01-15,2016-01-15,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1175,Sindy,Anderson,sindy.anderson@gmail.com,17,2016-01-12,2016-01-14,2016-01-14,3,"Santa Cruz Bikes",santacruz@bikes.shop
+541,Lanita,Burton,lanita.burton@msn.com,18,2016-01-14,2016-01-17,2016-01-15,3,"Santa Cruz Bikes",santacruz@bikes.shop
+696,Norine,Huffman,norine.huffman@aol.com,19,2016-01-14,2016-01-17,2016-01-16,2,"Santa Cruz Bikes",santacruz@bikes.shop
+923,Randee,Pitts,randee.pitts@msn.com,20,2016-01-14,2016-01-16,2016-01-17,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1035,Tangela,Hurley,tangela.hurley@msn.com,22,2016-01-16,2016-01-18,2016-01-17,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1149,Drucilla,Gilliam,drucilla.gilliam@hotmail.com,23,2016-01-16,2016-01-19,2016-01-19,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1259,Kimbery,Nieves,kimbery.nieves@msn.com,32,2016-01-21,2016-01-24,2016-01-22,3,"Santa Cruz Bikes",santacruz@bikes.shop
+348,Darren,Witt,darren.witt@aol.com,40,2016-01-27,2016-01-28,2016-01-29,3,"Santa Cruz Bikes",santacruz@bikes.shop
+767,Twana,Arnold,twana.arnold@msn.com,52,2016-02-03,2016-02-04,2016-02-05,2,"Santa Cruz Bikes",santacruz@bikes.shop
+151,Joesph,Delacruz,joesph.delacruz@aol.com,60,2016-02-06,2016-02-08,2016-02-07,3,"Santa Cruz Bikes",santacruz@bikes.shop
+208,Denis,Logan,denis.logan@msn.com,62,2016-02-07,2016-02-10,2016-02-10,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1386,Cesar,Wilkins,cesar.wilkins@hotmail.com,72,2016-02-12,2016-02-15,2016-02-13,2,"Santa Cruz Bikes",santacruz@bikes.shop
+385,Rochelle,Ward,rochelle.ward@yahoo.com,77,2016-02-16,2016-02-19,2016-02-19,2,"Santa Cruz Bikes",santacruz@bikes.shop
+529,Ellena,Clements,ellena.clements@aol.com,79,2016-02-17,2016-02-20,2016-02-20,3,"Santa Cruz Bikes",santacruz@bikes.shop
+393,Gertrude,Terry,gertrude.terry@hotmail.com,83,2016-02-19,2016-02-20,2016-02-20,3,"Santa Cruz Bikes",santacruz@bikes.shop
+648,Catrice,Hicks,catrice.hicks@yahoo.com,91,2016-02-25,2016-02-27,2016-02-28,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1328,Cindie,Franklin,cindie.franklin@yahoo.com,93,2016-02-26,2016-02-28,2016-02-27,3,"Santa Cruz Bikes",santacruz@bikes.shop
+929,Thurman,Ellis,thurman.ellis@gmail.com,94,2016-02-27,2016-02-28,2016-02-29,2,"Santa Cruz Bikes",santacruz@bikes.shop
+991,Brigida,Larson,brigida.larson@hotmail.com,103,2016-03-03,2016-03-06,2016-03-05,2,"Santa Cruz Bikes",santacruz@bikes.shop
+633,Kiara,Deleon,kiara.deleon@gmail.com,107,2016-03-06,2016-03-09,2016-03-09,2,"Santa Cruz Bikes",santacruz@bikes.shop
+577,Danille,Mcfarland,danille.mcfarland@msn.com,118,2016-03-12,2016-03-14,2016-03-13,2,"Santa Cruz Bikes",santacruz@bikes.shop
+403,Elouise,Fry,elouise.fry@aol.com,124,2016-03-16,2016-03-18,2016-03-17,3,"Santa Cruz Bikes",santacruz@bikes.shop
+46,Monika,Berg,monika.berg@gmail.com,132,2016-03-20,2016-03-22,2016-03-23,3,"Santa Cruz Bikes",santacruz@bikes.shop
+170,Regine,Gonzales,regine.gonzales@gmail.com,142,2016-03-26,2016-03-27,2016-03-27,3,"Santa Cruz Bikes",santacruz@bikes.shop
+288,Keturah,Massey,keturah.massey@msn.com,146,2016-03-28,2016-03-30,2016-03-30,3,"Santa Cruz Bikes",santacruz@bikes.shop
+332,Reena,Higgins,reena.higgins@gmail.com,150,2016-03-29,2016-03-31,2016-04-01,2,"Santa Cruz Bikes",santacruz@bikes.shop
+926,Katina,Mcintosh,katina.mcintosh@yahoo.com,151,2016-03-29,2016-04-01,2016-03-31,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1286,Dione,Pratt,dione.pratt@msn.com,154,2016-03-31,2016-04-01,2016-04-01,2,"Santa Cruz Bikes",santacruz@bikes.shop
+357,Sheri,Cole,sheri.cole@aol.com,156,2016-04-03,2016-04-06,2016-04-05,3,"Santa Cruz Bikes",santacruz@bikes.shop
+32,Araceli,Golden,araceli.golden@msn.com,159,2016-04-04,2016-04-06,2016-04-06,2,"Santa Cruz Bikes",santacruz@bikes.shop
+31,Williemae,Holloway,williemae.holloway@msn.com,162,2016-04-06,2016-04-08,2016-04-07,3,"Santa Cruz Bikes",santacruz@bikes.shop
+574,Adriene,Rivera,adriene.rivera@hotmail.com,165,2016-04-08,2016-04-10,2016-04-10,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1147,Kandace,Ayers,kandace.ayers@gmail.com,168,2016-04-09,2016-04-12,2016-04-11,3,"Santa Cruz Bikes",santacruz@bikes.shop
+237,Elvera,Peck,elvera.peck@yahoo.com,171,2016-04-11,2016-04-14,2016-04-14,3,"Santa Cruz Bikes",santacruz@bikes.shop
+121,Lucy,Woods,lucy.woods@gmail.com,177,2016-04-16,2016-04-19,2016-04-19,2,"Santa Cruz Bikes",santacruz@bikes.shop
+459,Latosha,Dalton,latosha.dalton@yahoo.com,181,2016-04-18,2016-04-20,2016-04-20,3,"Santa Cruz Bikes",santacruz@bikes.shop
+24,Corene,Wall,corene.wall@msn.com,185,2016-04-20,2016-04-20,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1288,Allie,Conley,allie.conley@msn.com,189,2016-04-23,2016-04-24,2016-04-26,2,"Santa Cruz Bikes",santacruz@bikes.shop
+919,Ruthanne,Hoover,ruthanne.hoover@aol.com,191,2016-04-27,2016-04-28,2016-04-28,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1366,Trena,Rogers,trena.rogers@aol.com,193,2016-04-28,2016-04-30,2016-04-30,3,"Santa Cruz Bikes",santacruz@bikes.shop
+600,Joi,Reeves,joi.reeves@msn.com,202,2016-05-03,2016-05-05,2016-05-04,2,"Santa Cruz Bikes",santacruz@bikes.shop
+267,Angelina,Lloyd,angelina.lloyd@yahoo.com,216,2016-05-11,2016-05-14,2016-05-13,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1218,Donovan,Cantrell,donovan.cantrell@msn.com,221,2016-05-13,2016-05-16,2016-05-14,2,"Santa Cruz Bikes",santacruz@bikes.shop
+157,Carola,Rodriquez,carola.rodriquez@hotmail.com,224,2016-05-17,2016-05-18,2016-05-19,3,"Santa Cruz Bikes",santacruz@bikes.shop
+307,Fransisca,Nicholson,fransisca.nicholson@aol.com,225,2016-05-17,2016-05-20,2016-05-19,3,"Santa Cruz Bikes",santacruz@bikes.shop
+501,Tony,Hicks,tony.hicks@gmail.com,226,2016-05-17,2016-05-19,2016-05-20,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1360,Latashia,Travis,latashia.travis@yahoo.com,232,2016-05-20,2016-05-23,2016-05-23,3,"Santa Cruz Bikes",santacruz@bikes.shop
+928,Joann,Barber,joann.barber@gmail.com,247,2016-05-30,2016-06-01,2016-06-01,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1314,Joeann,Garrison,joeann.garrison@yahoo.com,257,2016-06-05,2016-06-06,2016-06-08,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1045,Pasquale,Hogan,pasquale.hogan@aol.com,261,2016-06-08,2016-06-10,2016-06-09,2,"Santa Cruz Bikes",santacruz@bikes.shop
+5,Charolette,Rice,charolette.rice@msn.com,264,2016-06-10,2016-06-10,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+282,Randolph,Chase,randolph.chase@yahoo.com,267,2016-06-11,2016-06-14,2016-06-14,3,"Santa Cruz Bikes",santacruz@bikes.shop
+540,Shery,Randolph,shery.randolph@hotmail.com,268,2016-06-11,2016-06-14,2016-06-12,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1301,Raven,Curtis,raven.curtis@aol.com,278,2016-06-20,2016-06-23,2016-06-21,3,"Santa Cruz Bikes",santacruz@bikes.shop
+181,Olevia,Pitts,olevia.pitts@gmail.com,283,2016-06-23,2016-06-26,2016-06-26,2,"Santa Cruz Bikes",santacruz@bikes.shop
+319,Justin,Newton,justin.newton@hotmail.com,285,2016-06-25,2016-06-26,2016-06-27,2,"Santa Cruz Bikes",santacruz@bikes.shop
+627,Deloris,Larson,deloris.larson@aol.com,310,2016-07-12,2016-07-13,2016-07-13,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1428,Carola,Johns,carola.johns@msn.com,320,2016-07-19,2016-07-20,2016-07-21,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1333,Omega,Huff,omega.huff@aol.com,338,2016-07-28,2016-07-29,2016-07-30,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1357,Karren,Lamb,karren.lamb@aol.com,341,2016-07-31,2016-08-03,2016-08-01,3,"Santa Cruz Bikes",santacruz@bikes.shop
+30,Jamaal,Albert,jamaal.albert@gmail.com,349,2016-08-03,2016-08-03,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+31,Williemae,Holloway,williemae.holloway@msn.com,350,2016-08-03,2016-08-03,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1307,Cinda,Rocha,cinda.rocha@hotmail.com,351,2016-08-03,2016-08-06,2016-08-04,2,"Santa Cruz Bikes",santacruz@bikes.shop
+187,Hedwig,Paul,hedwig.paul@msn.com,362,2016-08-09,2016-08-11,2016-08-11,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1285,Garth,Huff,garth.huff@yahoo.com,369,2016-08-15,2016-08-18,2016-08-18,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1313,Dante,Grimes,dante.grimes@yahoo.com,374,2016-08-17,2016-08-19,2016-08-18,2,"Santa Cruz Bikes",santacruz@bikes.shop
+53,Saturnina,Garner,saturnina.garner@gmail.com,389,2016-08-22,2016-08-24,2016-08-25,3,"Santa Cruz Bikes",santacruz@bikes.shop
+176,Carley,Reynolds,carley.reynolds@gmail.com,392,2016-08-23,2016-08-26,2016-08-24,3,"Santa Cruz Bikes",santacruz@bikes.shop
+522,Tammera,Fischer,tammera.fischer@hotmail.com,394,2016-08-26,2016-08-28,2016-08-29,3,"Santa Cruz Bikes",santacruz@bikes.shop
+447,Chasidy,Tran,chasidy.tran@msn.com,398,2016-08-29,2016-08-30,2016-09-01,2,"Santa Cruz Bikes",santacruz@bikes.shop
+578,Salena,Day,salena.day@msn.com,403,2016-08-31,2016-09-01,2016-09-02,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1071,Shemeka,Lyons,shemeka.lyons@msn.com,408,2016-09-01,2016-09-02,2016-09-02,2,"Santa Cruz Bikes",santacruz@bikes.shop
+261,Ferne,Kline,ferne.kline@hotmail.com,411,2016-09-02,2016-09-04,2016-09-04,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1202,Carmina,Emerson,carmina.emerson@hotmail.com,412,2016-09-02,2016-09-04,2016-09-04,3,"Santa Cruz Bikes",santacruz@bikes.shop
+359,Angie,Powers,angie.powers@aol.com,417,2016-09-04,2016-09-05,2016-09-06,3,"Santa Cruz Bikes",santacruz@bikes.shop
+72,Petronila,Norris,petronila.norris@aol.com,420,2016-09-05,2016-09-06,2016-09-07,3,"Santa Cruz Bikes",santacruz@bikes.shop
+240,Le,Deleon,le.deleon@msn.com,421,2016-09-05,2016-09-06,2016-09-08,3,"Santa Cruz Bikes",santacruz@bikes.shop
+67,Tommie,Melton,tommie.melton@gmail.com,424,2016-09-08,2016-09-11,2016-09-11,3,"Santa Cruz Bikes",santacruz@bikes.shop
+434,Douglass,Little,douglass.little@hotmail.com,427,2016-09-09,2016-09-10,2016-09-11,2,"Santa Cruz Bikes",santacruz@bikes.shop
+169,Karla,Kirk,karla.kirk@yahoo.com,432,2016-09-12,2016-09-15,2016-09-14,2,"Santa Cruz Bikes",santacruz@bikes.shop
+704,Morton,Barron,morton.barron@msn.com,441,2016-09-18,2016-09-19,2016-09-19,2,"Santa Cruz Bikes",santacruz@bikes.shop
+30,Jamaal,Albert,jamaal.albert@gmail.com,444,2016-09-19,2016-09-20,2016-09-21,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1349,Kami,Rios,kami.rios@yahoo.com,457,2016-09-24,2016-09-27,2016-09-27,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1261,Adelaida,Hancock,adelaida.hancock@aol.com,468,2016-09-29,2016-10-02,2016-09-30,3,"Santa Cruz Bikes",santacruz@bikes.shop
+641,Derrick,Marks,derrick.marks@yahoo.com,470,2016-09-30,2016-10-02,2016-10-02,3,"Santa Cruz Bikes",santacruz@bikes.shop
+697,Alane,Mccarty,alane.mccarty@hotmail.com,471,2016-09-30,2016-10-02,2016-10-01,3,"Santa Cruz Bikes",santacruz@bikes.shop
+553,Rory,Cooper,rory.cooper@gmail.com,474,2016-10-01,2016-10-04,2016-10-04,3,"Santa Cruz Bikes",santacruz@bikes.shop
+449,Josie,Schultz,josie.schultz@hotmail.com,477,2016-10-02,2016-10-05,2016-10-04,2,"Santa Cruz Bikes",santacruz@bikes.shop
+686,Darcel,Harmon,darcel.harmon@msn.com,480,2016-10-04,2016-10-07,2016-10-05,3,"Santa Cruz Bikes",santacruz@bikes.shop
+703,Diana,Cobb,diana.cobb@hotmail.com,483,2016-10-06,2016-10-07,2016-10-09,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1048,Ji,Burt,ji.burt@hotmail.com,491,2016-10-08,2016-10-10,2016-10-11,2,"Santa Cruz Bikes",santacruz@bikes.shop
+191,Graciela,Barber,graciela.barber@hotmail.com,492,2016-10-09,2016-10-10,2016-10-12,2,"Santa Cruz Bikes",santacruz@bikes.shop
+796,Rosalie,Coffey,rosalie.coffey@gmail.com,493,2016-10-09,2016-10-12,2016-10-11,3,"Santa Cruz Bikes",santacruz@bikes.shop
+712,Kecia,Olsen,kecia.olsen@msn.com,495,2016-10-10,2016-10-12,2016-10-13,3,"Santa Cruz Bikes",santacruz@bikes.shop
+260,Rodrick,Shelton,rodrick.shelton@hotmail.com,499,2016-10-11,2016-10-14,2016-10-13,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1381,Mercedez,Brooks,mercedez.brooks@hotmail.com,504,2016-10-14,2016-10-15,2016-10-15,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1378,Enoch,Rosario,enoch.rosario@hotmail.com,507,2016-10-15,2016-10-17,2016-10-17,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1374,Juliane,Dillard,juliane.dillard@aol.com,518,2016-10-22,2016-10-24,2016-10-25,2,"Santa Cruz Bikes",santacruz@bikes.shop
+569,Lucas,Estes,lucas.estes@yahoo.com,524,2016-10-25,2016-10-26,2016-10-27,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1315,Omega,Johnston,omega.johnston@gmail.com,525,2016-10-26,2016-10-28,2016-10-29,3,"Santa Cruz Bikes",santacruz@bikes.shop
+506,Irving,Pitts,irving.pitts@msn.com,527,2016-10-27,2016-10-29,2016-10-28,2,"Santa Cruz Bikes",santacruz@bikes.shop
+759,Cira,Downs,cira.downs@gmail.com,536,2016-10-31,2016-11-02,2016-11-01,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1353,Agatha,Daniels,agatha.daniels@yahoo.com,537,2016-10-31,2016-11-01,2016-11-03,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1429,Lorrie,Justice,lorrie.justice@gmail.com,540,2016-11-03,2016-11-05,2016-11-06,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1228,Zulema,Clemons,zulema.clemons@aol.com,541,2016-11-04,2016-11-07,2016-11-07,3,"Santa Cruz Bikes",santacruz@bikes.shop
+104,Katharina,Bates,katharina.bates@gmail.com,554,2016-11-13,2016-11-14,2016-11-16,3,"Santa Cruz Bikes",santacruz@bikes.shop
+959,Christel,Barber,christel.barber@hotmail.com,559,2016-11-16,2016-11-17,2016-11-17,2,"Santa Cruz Bikes",santacruz@bikes.shop
+298,Jennie,Middleton,jennie.middleton@gmail.com,566,2016-11-22,2016-11-25,2016-11-23,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1430,Tayna,Wade,tayna.wade@hotmail.com,567,2016-11-22,2016-11-23,2016-11-23,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1275,Lenita,Bonner,lenita.bonner@aol.com,568,2016-11-23,2016-11-25,2016-11-24,3,"Santa Cruz Bikes",santacruz@bikes.shop
+5,Charolette,Rice,charolette.rice@msn.com,571,2016-11-24,2016-11-25,2016-11-27,2,"Santa Cruz Bikes",santacruz@bikes.shop
+33,Deloris,Burke,deloris.burke@hotmail.com,575,2016-11-27,2016-11-28,2016-11-30,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1272,Houston,Vasquez,houston.vasquez@msn.com,576,2016-11-27,2016-11-30,2016-11-28,3,"Santa Cruz Bikes",santacruz@bikes.shop
+581,Vonda,Berger,vonda.berger@yahoo.com,580,2016-11-30,2016-12-02,2016-12-02,3,"Santa Cruz Bikes",santacruz@bikes.shop
+688,Pearlie,Cochran,pearlie.cochran@msn.com,581,2016-12-03,2016-12-05,2016-12-06,3,"Santa Cruz Bikes",santacruz@bikes.shop
+32,Araceli,Golden,araceli.golden@msn.com,582,2016-12-04,2016-12-04,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+487,Grace,Madden,grace.madden@gmail.com,587,2016-12-06,2016-12-08,2016-12-08,2,"Santa Cruz Bikes",santacruz@bikes.shop
+538,Sherie,Ayala,sherie.ayala@msn.com,595,2016-12-08,2016-12-09,2016-12-11,2,"Santa Cruz Bikes",santacruz@bikes.shop
+952,Aileen,Marquez,aileen.marquez@msn.com,596,2016-12-08,2016-12-09,2016-12-09,3,"Santa Cruz Bikes",santacruz@bikes.shop
+40,Ronna,Butler,ronna.butler@gmail.com,598,2016-12-09,2016-12-09,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1103,Ardelia,Cooley,ardelia.cooley@aol.com,608,2016-12-12,2016-12-15,2016-12-14,3,"Santa Cruz Bikes",santacruz@bikes.shop
+654,Eun,Harris,eun.harris@gmail.com,614,2016-12-18,2016-12-21,2016-12-21,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1163,Carmela,Hays,carmela.hays@aol.com,625,2016-12-25,2016-12-28,2016-12-26,2,"Santa Cruz Bikes",santacruz@bikes.shop
+561,Kandace,Hughes,kandace.hughes@hotmail.com,628,2016-12-26,2016-12-29,2016-12-27,3,"Santa Cruz Bikes",santacruz@bikes.shop
+973,Margaretta,Clayton,margaretta.clayton@yahoo.com,629,2016-12-26,2016-12-27,2016-12-29,2,"Santa Cruz Bikes",santacruz@bikes.shop
+855,Lean,Stark,lean.stark@msn.com,631,2016-12-27,2016-12-29,2016-12-29,3,"Santa Cruz Bikes",santacruz@bikes.shop
+532,Mia,Delgado,mia.delgado@yahoo.com,636,2017-01-03,2017-01-04,2017-01-05,2,"Santa Cruz Bikes",santacruz@bikes.shop
+673,Adam,Henderson,adam.henderson@hotmail.com,641,2017-01-07,2017-01-10,2017-01-08,3,"Santa Cruz Bikes",santacruz@bikes.shop
+901,Lonna,Franks,lonna.franks@yahoo.com,643,2017-01-08,2017-01-09,2017-01-11,3,"Santa Cruz Bikes",santacruz@bikes.shop
+975,Annis,Sanchez,annis.sanchez@aol.com,646,2017-01-09,2017-01-12,2017-01-11,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1153,Ara,Vazquez,ara.vazquez@msn.com,649,2017-01-10,2017-01-11,2017-01-13,3,"Santa Cruz Bikes",santacruz@bikes.shop
+729,Hue,Dalton,hue.dalton@hotmail.com,650,2017-01-11,2017-01-14,2017-01-12,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1249,Barbra,Dickerson,barbra.dickerson@gmail.com,653,2017-01-14,2017-01-17,2017-01-15,2,"Santa Cruz Bikes",santacruz@bikes.shop
+347,Kanesha,Hudson,kanesha.hudson@gmail.com,655,2017-01-16,2017-01-17,2017-01-18,3,"Santa Cruz Bikes",santacruz@bikes.shop
+349,Mable,Pratt,mable.pratt@gmail.com,657,2017-01-17,2017-01-19,2017-01-20,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1125,Caleb,England,caleb.england@gmail.com,662,2017-01-19,2017-01-20,2017-01-20,3,"Santa Cruz Bikes",santacruz@bikes.shop
+344,Herta,Rollins,herta.rollins@msn.com,663,2017-01-20,2017-01-22,2017-01-23,3,"Santa Cruz Bikes",santacruz@bikes.shop
+81,Zina,Bonner,zina.bonner@hotmail.com,679,2017-01-29,2017-01-30,2017-01-30,3,"Santa Cruz Bikes",santacruz@bikes.shop
+245,Delila,Hamilton,delila.hamilton@yahoo.com,680,2017-01-29,2017-02-01,2017-01-30,3,"Santa Cruz Bikes",santacruz@bikes.shop
+530,Selene,Austin,selene.austin@msn.com,687,2017-02-02,2017-02-05,2017-02-04,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1097,Collen,Dennis,collen.dennis@gmail.com,690,2017-02-03,2017-02-04,2017-02-06,2,"Santa Cruz Bikes",santacruz@bikes.shop
+2,Kasha,Todd,kasha.todd@yahoo.com,692,2017-02-05,2017-02-05,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1233,Lise,Hebert,lise.hebert@gmail.com,693,2017-02-05,2017-02-07,2017-02-06,3,"Santa Cruz Bikes",santacruz@bikes.shop
+562,Alejandro,Norman,alejandro.norman@yahoo.com,697,2017-02-06,2017-02-08,2017-02-09,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1352,Dorothea,Miranda,dorothea.miranda@aol.com,702,2017-02-08,2017-02-09,2017-02-11,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1271,Roy,Chan,roy.chan@hotmail.com,706,2017-02-09,2017-02-12,2017-02-10,2,"Santa Cruz Bikes",santacruz@bikes.shop
+660,Shara,Pope,shara.pope@msn.com,708,2017-02-10,2017-02-12,2017-02-11,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1138,Hubert,Stone,hubert.stone@hotmail.com,728,2017-02-20,2017-02-21,2017-02-23,3,"Santa Cruz Bikes",santacruz@bikes.shop
+124,Jeni,Booker,jeni.booker@gmail.com,738,2017-02-28,2017-03-01,2017-03-03,2,"Santa Cruz Bikes",santacruz@bikes.shop
+391,Vernita,Ball,vernita.ball@gmail.com,746,2017-03-02,2017-03-04,2017-03-05,3,"Santa Cruz Bikes",santacruz@bikes.shop
+87,Yan,Mcgowan,yan.mcgowan@msn.com,747,2017-03-03,2017-03-04,2017-03-05,3,"Santa Cruz Bikes",santacruz@bikes.shop
+731,Hilary,Savage,hilary.savage@yahoo.com,751,2017-03-05,2017-03-08,2017-03-07,3,"Santa Cruz Bikes",santacruz@bikes.shop
+646,Ann,Heath,ann.heath@msn.com,754,2017-03-06,2017-03-07,2017-03-08,2,"Santa Cruz Bikes",santacruz@bikes.shop
+701,Alysia,Nicholson,alysia.nicholson@hotmail.com,764,2017-03-09,2017-03-10,2017-03-12,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1152,Tuyet,Rosa,tuyet.rosa@aol.com,765,2017-03-09,2017-03-11,2017-03-12,2,"Santa Cruz Bikes",santacruz@bikes.shop
+671,Jennette,Baker,jennette.baker@gmail.com,771,2017-03-11,2017-03-14,2017-03-12,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1343,Jama,Rodriquez,jama.rodriquez@msn.com,783,2017-03-16,2017-03-19,2017-03-17,2,"Santa Cruz Bikes",santacruz@bikes.shop
+794,Donette,Mccarthy,donette.mccarthy@yahoo.com,785,2017-03-18,2017-03-19,2017-03-20,2,"Santa Cruz Bikes",santacruz@bikes.shop
+619,Ana,Palmer,ana.palmer@yahoo.com,798,2017-03-26,2017-03-28,2017-03-29,3,"Santa Cruz Bikes",santacruz@bikes.shop
+607,Paul,Lester,paul.lester@gmail.com,799,2017-03-27,2017-03-28,2017-03-29,3,"Santa Cruz Bikes",santacruz@bikes.shop
+78,Chi,Goff,chi.goff@aol.com,801,2017-03-28,2017-03-29,2017-03-30,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1251,Nanette,Roman,nanette.roman@yahoo.com,815,2017-04-03,2017-04-05,2017-04-04,3,"Santa Cruz Bikes",santacruz@bikes.shop
+993,Giovanna,Jefferson,giovanna.jefferson@gmail.com,824,2017-04-07,2017-04-09,2017-04-10,2,"Santa Cruz Bikes",santacruz@bikes.shop
+940,Marina,Hinton,marina.hinton@yahoo.com,835,2017-04-13,2017-04-15,2017-04-14,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1332,Novella,Ross,novella.ross@gmail.com,839,2017-04-15,2017-04-18,2017-04-16,3,"Santa Cruz Bikes",santacruz@bikes.shop
+776,Angelique,Merrill,angelique.merrill@gmail.com,849,2017-04-19,2017-04-20,2017-04-21,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1346,Sanora,Webster,sanora.webster@msn.com,850,2017-04-19,2017-04-22,2017-04-22,3,"Santa Cruz Bikes",santacruz@bikes.shop
+97,Louanne,Martin,louanne.martin@hotmail.com,867,2017-05-01,2017-05-03,2017-05-02,3,"Santa Cruz Bikes",santacruz@bikes.shop
+868,Domingo,Casey,domingo.casey@msn.com,868,2017-05-01,2017-05-04,2017-05-02,3,"Santa Cruz Bikes",santacruz@bikes.shop
+394,Virgen,Clemons,virgen.clemons@gmail.com,872,2017-05-03,2017-05-06,2017-05-06,3,"Santa Cruz Bikes",santacruz@bikes.shop
+386,Nelle,Beck,nelle.beck@aol.com,875,2017-05-05,2017-05-06,2017-05-08,3,"Santa Cruz Bikes",santacruz@bikes.shop
+224,Moses,Pope,moses.pope@yahoo.com,878,2017-05-07,2017-05-10,2017-05-09,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1396,Delma,Bailey,delma.bailey@gmail.com,886,2017-05-13,2017-05-14,2017-05-15,2,"Santa Cruz Bikes",santacruz@bikes.shop
+47,Bridgette,Guerra,bridgette.guerra@hotmail.com,897,2017-05-20,2017-05-21,2017-05-21,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1020,Lorraine,Marks,lorraine.marks@msn.com,904,2017-05-23,2017-05-26,2017-05-24,2,"Santa Cruz Bikes",santacruz@bikes.shop
+120,Luz,House,luz.house@gmail.com,907,2017-05-24,2017-05-26,2017-05-27,2,"Santa Cruz Bikes",santacruz@bikes.shop
+188,Sharla,Flynn,sharla.flynn@hotmail.com,909,2017-05-26,2017-05-27,2017-05-28,2,"Santa Cruz Bikes",santacruz@bikes.shop
+519,Rudolf,Gilliam,rudolf.gilliam@aol.com,912,2017-05-27,2017-05-29,2017-05-29,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1068,Doris,Kaufman,doris.kaufman@gmail.com,914,2017-05-28,2017-05-31,2017-05-31,2,"Santa Cruz Bikes",santacruz@bikes.shop
+881,Chloe,Patel,chloe.patel@yahoo.com,917,2017-05-29,2017-05-31,2017-06-01,2,"Santa Cruz Bikes",santacruz@bikes.shop
+242,Rutha,Howell,rutha.howell@gmail.com,918,2017-05-30,2017-05-31,2017-05-31,3,"Santa Cruz Bikes",santacruz@bikes.shop
+233,Mariana,Strong,mariana.strong@msn.com,926,2017-06-03,2017-06-05,2017-06-06,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1438,Lee,Dunn,lee.dunn@aol.com,927,2017-06-03,2017-06-05,2017-06-06,2,"Santa Cruz Bikes",santacruz@bikes.shop
+957,Stephen,Vega,stephen.vega@msn.com,928,2017-06-05,2017-06-06,2017-06-06,3,"Santa Cruz Bikes",santacruz@bikes.shop
+585,Chasidy,Webster,chasidy.webster@msn.com,940,2017-06-12,2017-06-14,2017-06-13,2,"Santa Cruz Bikes",santacruz@bikes.shop
+736,Genny,Hensley,genny.hensley@yahoo.com,941,2017-06-12,2017-06-14,2017-06-14,2,"Santa Cruz Bikes",santacruz@bikes.shop
+138,Jone,Bernard,jone.bernard@hotmail.com,944,2017-06-14,2017-06-15,2017-06-17,3,"Santa Cruz Bikes",santacruz@bikes.shop
+278,Myesha,Burgess,myesha.burgess@gmail.com,947,2017-06-15,2017-06-18,2017-06-17,3,"Santa Cruz Bikes",santacruz@bikes.shop
+867,Rosalva,Hamilton,rosalva.hamilton@aol.com,949,2017-06-16,2017-06-18,2017-06-17,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1276,Shona,Mcmillan,shona.mcmillan@msn.com,958,2017-06-18,2017-06-20,2017-06-19,2,"Santa Cruz Bikes",santacruz@bikes.shop
+82,Lizzie,Joyner,lizzie.joyner@msn.com,961,2017-06-19,2017-06-21,2017-06-22,2,"Santa Cruz Bikes",santacruz@bikes.shop
+172,Jeanie,Kirkland,jeanie.kirkland@aol.com,987,2017-07-02,2017-07-04,2017-07-04,2,"Santa Cruz Bikes",santacruz@bikes.shop
+751,Hermila,Mckay,hermila.mckay@yahoo.com,991,2017-07-06,2017-07-07,2017-07-09,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1415,Harold,O'connor,harold.o'connor@gmail.com,993,2017-07-09,2017-07-11,2017-07-11,3,"Santa Cruz Bikes",santacruz@bikes.shop
+621,Basil,Ballard,basil.ballard@yahoo.com,995,2017-07-11,2017-07-13,2017-07-14,2,"Santa Cruz Bikes",santacruz@bikes.shop
+915,Beryl,Bennett,beryl.bennett@aol.com,996,2017-07-11,2017-07-12,2017-07-12,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1418,Penni,Best,penni.best@msn.com,1002,2017-07-14,2017-07-16,2017-07-16,3,"Santa Cruz Bikes",santacruz@bikes.shop
+495,Travis,Goodman,travis.goodman@yahoo.com,1011,2017-07-18,2017-07-21,2017-07-21,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1370,Rona,Rojas,rona.rojas@gmail.com,1026,2017-07-26,2017-07-28,2017-07-29,2,"Santa Cruz Bikes",santacruz@bikes.shop
+407,Dannette,Guerrero,dannette.guerrero@gmail.com,1029,2017-07-29,2017-07-30,2017-08-01,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1308,Shea,Howell,shea.howell@msn.com,1031,2017-07-30,2017-08-01,2017-08-02,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1225,Mellisa,Griffin,mellisa.griffin@msn.com,1040,2017-08-04,2017-08-07,2017-08-05,2,"Santa Cruz Bikes",santacruz@bikes.shop
+194,Dorine,Roberson,dorine.roberson@msn.com,1049,2017-08-09,2017-08-11,2017-08-10,2,"Santa Cruz Bikes",santacruz@bikes.shop
+239,Felice,Guzman,felice.guzman@hotmail.com,1050,2017-08-09,2017-08-12,2017-08-12,3,"Santa Cruz Bikes",santacruz@bikes.shop
+47,Bridgette,Guerra,bridgette.guerra@hotmail.com,1072,2017-08-18,2017-08-18,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1003,Sharell,Ross,sharell.ross@msn.com,1075,2017-08-19,2017-08-21,2017-08-22,3,"Santa Cruz Bikes",santacruz@bikes.shop
+2,Kasha,Todd,kasha.todd@yahoo.com,1084,2017-08-21,2017-08-24,2017-08-23,2,"Santa Cruz Bikes",santacruz@bikes.shop
+305,Hope,Cotton,hope.cotton@aol.com,1085,2017-08-21,2017-08-23,2017-08-23,3,"Santa Cruz Bikes",santacruz@bikes.shop
+46,Monika,Berg,monika.berg@gmail.com,1089,2017-08-23,2017-08-23,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1427,Mikel,Wilkerson,mikel.wilkerson@msn.com,1090,2017-08-24,2017-08-26,2017-08-26,2,"Santa Cruz Bikes",santacruz@bikes.shop
+40,Ronna,Butler,ronna.butler@gmail.com,1092,2017-08-25,2017-08-28,2017-08-27,2,"Santa Cruz Bikes",santacruz@bikes.shop
+326,Shiela,Calderon,shiela.calderon@msn.com,1093,2017-08-25,2017-08-28,2017-08-26,3,"Santa Cruz Bikes",santacruz@bikes.shop
+589,Jeffry,Church,jeffry.church@msn.com,1096,2017-08-27,2017-08-29,2017-08-29,2,"Santa Cruz Bikes",santacruz@bikes.shop
+752,Lloyd,Miranda,lloyd.miranda@hotmail.com,1098,2017-08-28,2017-08-30,2017-08-30,2,"Santa Cruz Bikes",santacruz@bikes.shop
+735,Aide,Franco,aide.franco@msn.com,1108,2017-09-03,2017-09-05,2017-09-04,3,"Santa Cruz Bikes",santacruz@bikes.shop
+749,Oralia,Farley,oralia.farley@hotmail.com,1119,2017-09-10,2017-09-12,2017-09-13,2,"Santa Cruz Bikes",santacruz@bikes.shop
+69,Katelin,Kennedy,katelin.kennedy@gmail.com,1130,2017-09-18,2017-09-20,2017-09-20,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1178,Wendie,Nash,wendie.nash@hotmail.com,1131,2017-09-18,2017-09-20,2017-09-19,3,"Santa Cruz Bikes",santacruz@bikes.shop
+254,Cristobal,Hutchinson,cristobal.hutchinson@gmail.com,1138,2017-09-21,2017-09-23,2017-09-22,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1006,Marjory,Leonard,marjory.leonard@msn.com,1139,2017-09-21,2017-09-22,2017-09-23,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1076,Sherise,Mercer,sherise.mercer@gmail.com,1141,2017-09-22,2017-09-23,2017-09-24,2,"Santa Cruz Bikes",santacruz@bikes.shop
+554,Hilde,Nieves,hilde.nieves@gmail.com,1142,2017-09-23,2017-09-26,2017-09-26,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1087,Willow,Gardner,willow.gardner@gmail.com,1143,2017-09-24,2017-09-26,2017-09-27,2,"Santa Cruz Bikes",santacruz@bikes.shop
+708,Majorie,Glover,majorie.glover@msn.com,1151,2017-09-29,2017-09-30,2017-09-30,3,"Santa Cruz Bikes",santacruz@bikes.shop
+24,Corene,Wall,corene.wall@msn.com,1157,2017-10-01,2017-10-03,2017-10-04,3,"Santa Cruz Bikes",santacruz@bikes.shop
+889,Lucilla,Williams,lucilla.williams@hotmail.com,1158,2017-10-01,2017-10-03,2017-10-02,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1221,Joy,Underwood,joy.underwood@gmail.com,1159,2017-10-01,2017-10-02,2017-10-03,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1262,Brianne,Hays,brianne.hays@gmail.com,1160,2017-10-01,2017-10-02,2017-10-04,2,"Santa Cruz Bikes",santacruz@bikes.shop
+900,Jule,Davenport,jule.davenport@aol.com,1167,2017-10-04,2017-10-07,2017-10-06,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1065,Desiree,Branch,desiree.branch@msn.com,1180,2017-10-13,2017-10-16,2017-10-16,3,"Santa Cruz Bikes",santacruz@bikes.shop
+192,Bong,Hebert,bong.hebert@gmail.com,1194,2017-10-19,2017-10-22,2017-10-22,2,"Santa Cruz Bikes",santacruz@bikes.shop
+318,Eliz,Whitney,eliz.whitney@msn.com,1199,2017-10-23,2017-10-24,2017-10-26,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1091,Risa,Gallagher,risa.gallagher@yahoo.com,1205,2017-10-26,2017-10-28,2017-10-28,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1017,Philip,Bryan,philip.bryan@hotmail.com,1218,2017-10-30,2017-11-01,2017-10-31,2,"Santa Cruz Bikes",santacruz@bikes.shop
+768,Yvone,Yates,yvone.yates@gmail.com,1225,2017-11-04,2017-11-05,2017-11-07,2,"Santa Cruz Bikes",santacruz@bikes.shop
+89,Arvilla,Osborn,arvilla.osborn@gmail.com,1229,2017-11-05,2017-11-08,2017-11-06,3,"Santa Cruz Bikes",santacruz@bikes.shop
+665,Stacie,Sims,stacie.sims@hotmail.com,1232,2017-11-06,2017-11-07,2017-11-09,3,"Santa Cruz Bikes",santacruz@bikes.shop
+571,Kaley,Blanchard,kaley.blanchard@msn.com,1237,2017-11-09,2017-11-12,2017-11-11,2,"Santa Cruz Bikes",santacruz@bikes.shop
+426,Daisy,Ward,daisy.ward@msn.com,1247,2017-11-16,2017-11-18,2017-11-17,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1367,Lucile,Manning,lucile.manning@yahoo.com,1248,2017-11-16,2017-11-17,2017-11-18,3,"Santa Cruz Bikes",santacruz@bikes.shop
+110,Ollie,Zimmerman,ollie.zimmerman@yahoo.com,1252,2017-11-18,2017-11-20,2017-11-21,3,"Santa Cruz Bikes",santacruz@bikes.shop
+774,Nenita,Mooney,nenita.mooney@hotmail.com,1268,2017-11-26,2017-11-28,2017-11-29,3,"Santa Cruz Bikes",santacruz@bikes.shop
+165,Jeromy,Burch,jeromy.burch@msn.com,1275,2017-11-29,2017-12-01,2017-11-30,2,"Santa Cruz Bikes",santacruz@bikes.shop
+279,Justina,Long,justina.long@aol.com,1287,2017-12-07,2017-12-10,2017-12-09,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1292,Lakenya,Oliver,lakenya.oliver@yahoo.com,1289,2017-12-08,2017-12-11,2017-12-10,3,"Santa Cruz Bikes",santacruz@bikes.shop
+947,Angele,Castro,angele.castro@yahoo.com,1294,2017-12-11,2017-12-13,2017-12-14,2,"Santa Cruz Bikes",santacruz@bikes.shop
+231,Jenee,Rasmussen,jenee.rasmussen@hotmail.com,1296,2017-12-14,2017-12-17,2017-12-15,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1216,Elvina,Gates,elvina.gates@hotmail.com,1299,2017-12-15,2017-12-18,2017-12-16,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1088,Jane,Henderson,jane.henderson@hotmail.com,1301,2017-12-16,2017-12-19,2017-12-19,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1384,Elmo,Sweeney,elmo.sweeney@yahoo.com,1307,2017-12-22,2017-12-23,2017-12-25,2,"Santa Cruz Bikes",santacruz@bikes.shop
+444,Caridad,Compton,caridad.compton@aol.com,1310,2017-12-24,2017-12-25,2017-12-26,3,"Santa Cruz Bikes",santacruz@bikes.shop
+311,Charise,Burt,charise.burt@aol.com,1312,2017-12-25,2017-12-28,2017-12-26,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1294,Edith,Davenport,edith.davenport@gmail.com,1313,2017-12-25,2017-12-27,2017-12-27,3,"Santa Cruz Bikes",santacruz@bikes.shop
+846,Sylvester,Chan,sylvester.chan@hotmail.com,1316,2017-12-26,2017-12-29,2017-12-27,3,"Santa Cruz Bikes",santacruz@bikes.shop
+418,Georgeanna,Webster,georgeanna.webster@msn.com,1317,2017-12-27,2017-12-28,2017-12-29,3,"Santa Cruz Bikes",santacruz@bikes.shop
+244,Jessika,Bray,jessika.bray@yahoo.com,1320,2017-12-28,2017-12-30,2017-12-29,3,"Santa Cruz Bikes",santacruz@bikes.shop
+217,Carline,Collier,carline.collier@msn.com,1321,2017-12-30,2017-12-31,2017-12-31,3,"Santa Cruz Bikes",santacruz@bikes.shop
+443,Ayana,Keith,ayana.keith@hotmail.com,1329,2018-01-04,2018-01-05,2018-01-06,3,"Santa Cruz Bikes",santacruz@bikes.shop
+904,Jana,Thomas,jana.thomas@yahoo.com,1336,2018-01-09,2018-01-10,2018-01-12,2,"Santa Cruz Bikes",santacruz@bikes.shop
+580,Mellisa,Kim,mellisa.kim@aol.com,1339,2018-01-11,2018-01-14,2018-01-13,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1066,Raeann,Duncan,raeann.duncan@aol.com,1340,2018-01-12,2018-01-13,2018-01-13,3,"Santa Cruz Bikes",santacruz@bikes.shop
+247,Muriel,Juarez,muriel.juarez@gmail.com,1347,2018-01-15,2018-01-18,2018-01-18,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1214,Brigid,Sharp,brigid.sharp@hotmail.com,1348,2018-01-15,2018-01-17,2018-01-17,2,"Santa Cruz Bikes",santacruz@bikes.shop
+476,Christopher,Richardson,christopher.richardson@gmail.com,1354,2018-01-19,2018-01-20,2018-01-21,3,"Santa Cruz Bikes",santacruz@bikes.shop
+253,Maurice,Norton,maurice.norton@hotmail.com,1358,2018-01-21,2018-01-23,2018-01-24,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1118,Ja,Dillard,ja.dillard@yahoo.com,1367,2018-01-27,2018-01-28,2018-01-28,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1330,Karren,Stevenson,karren.stevenson@aol.com,1374,2018-01-30,2018-02-01,2018-02-01,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1186,Kiesha,Bond,kiesha.bond@aol.com,1376,2018-02-01,2018-02-02,2018-02-03,2,"Santa Cruz Bikes",santacruz@bikes.shop
+983,Marguerite,Berger,marguerite.berger@aol.com,1378,2018-02-02,2018-02-05,2018-02-04,2,"Santa Cruz Bikes",santacruz@bikes.shop
+818,Joel,Wynn,joel.wynn@aol.com,1380,2018-02-05,2018-02-08,2018-02-08,3,"Santa Cruz Bikes",santacruz@bikes.shop
+488,Joaquin,Hawkins,joaquin.hawkins@aol.com,1383,2018-02-07,2018-02-08,2018-02-08,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1254,Dung,Reid,dung.reid@msn.com,1386,2018-02-09,2018-02-10,2018-02-11,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1052,Zora,Ford,zora.ford@gmail.com,1395,2018-02-15,2018-02-18,2018-02-16,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1383,Desire,Mcgowan,desire.mcgowan@msn.com,1398,2018-02-16,2018-02-19,2018-02-19,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1240,Bella,Perez,bella.perez@msn.com,1404,2018-02-23,2018-02-26,2018-02-24,3,"Santa Cruz Bikes",santacruz@bikes.shop
+109,Monica,Sears,monica.sears@aol.com,1411,2018-03-01,2018-03-02,2018-03-02,2,"Santa Cruz Bikes",santacruz@bikes.shop
+300,Rayford,Simon,rayford.simon@msn.com,1417,2018-03-04,2018-03-06,2018-03-07,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1231,Selene,Vega,selene.vega@gmail.com,1423,2018-03-06,2018-03-07,2018-03-07,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1445,Ester,Acevedo,ester.acevedo@gmail.com,1424,2018-03-07,2018-03-10,2018-03-10,2,"Santa Cruz Bikes",santacruz@bikes.shop
+518,Homer,Powers,homer.powers@msn.com,1437,2018-03-15,2018-03-16,2018-03-16,2,"Santa Cruz Bikes",santacruz@bikes.shop
+1419,Lurlene,Cotton,lurlene.cotton@yahoo.com,1447,2018-03-18,2018-03-20,2018-03-20,3,"Santa Cruz Bikes",santacruz@bikes.shop
+287,Mireille,Puckett,mireille.puckett@hotmail.com,1452,2018-03-20,2018-03-23,2018-03-23,3,"Santa Cruz Bikes",santacruz@bikes.shop
+601,Leland,Mcdowell,leland.mcdowell@gmail.com,1453,2018-03-20,2018-03-23,2018-03-22,3,"Santa Cruz Bikes",santacruz@bikes.shop
+738,Fannie,Jenkins,fannie.jenkins@msn.com,1466,2018-03-26,2018-03-29,2018-03-28,3,"Santa Cruz Bikes",santacruz@bikes.shop
+3,Tameka,Fisher,tameka.fisher@aol.com,1468,2018-03-27,2018-03-30,2018-03-29,2,"Santa Cruz Bikes",santacruz@bikes.shop
+302,Hayden,Cross,hayden.cross@gmail.com,1473,2018-03-30,2018-04-01,2018-04-02,2,"Santa Cruz Bikes",santacruz@bikes.shop
+816,Marshall,Johnson,marshall.johnson@yahoo.com,1474,2018-03-30,2018-04-01,2018-04-02,3,"Santa Cruz Bikes",santacruz@bikes.shop
+33,Deloris,Burke,deloris.burke@hotmail.com,1487,2018-04-03,2018-04-03,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+181,Olevia,Pitts,olevia.pitts@gmail.com,1488,2018-04-03,2018-04-03,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+194,Dorine,Roberson,dorine.roberson@msn.com,1489,2018-04-03,2018-04-03,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+217,Carline,Collier,carline.collier@msn.com,1490,2018-04-03,2018-04-03,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+82,Lizzie,Joyner,lizzie.joyner@msn.com,1491,2018-04-04,2018-04-04,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+69,Katelin,Kennedy,katelin.kennedy@gmail.com,1494,2018-04-05,2018-04-05,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+3,Tameka,Fisher,tameka.fisher@aol.com,1496,2018-04-06,2018-04-06,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+31,Williemae,Holloway,williemae.holloway@msn.com,1497,2018-04-06,2018-04-06,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+81,Zina,Bonner,zina.bonner@hotmail.com,1498,2018-04-06,2018-04-06,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+120,Luz,House,luz.house@gmail.com,1499,2018-04-06,2018-04-06,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+151,Joesph,Delacruz,joesph.delacruz@aol.com,1500,2018-04-06,2018-04-06,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+208,Denis,Logan,denis.logan@msn.com,1503,2018-04-07,2018-04-07,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+237,Elvera,Peck,elvera.peck@yahoo.com,1504,2018-04-08,2018-04-08,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+2,Kasha,Todd,kasha.todd@yahoo.com,1509,2018-04-09,2018-04-09,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+32,Araceli,Golden,araceli.golden@msn.com,1513,2018-04-10,2018-04-10,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+87,Yan,Mcgowan,yan.mcgowan@msn.com,1514,2018-04-10,2018-04-10,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+47,Bridgette,Guerra,bridgette.guerra@hotmail.com,1516,2018-04-11,2018-04-11,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+97,Louanne,Martin,louanne.martin@hotmail.com,1517,2018-04-11,2018-04-11,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+175,Nova,Hess,nova.hess@msn.com,1518,2018-04-11,2018-04-11,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+53,Saturnina,Garner,saturnina.garner@gmail.com,1521,2018-04-12,2018-04-12,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+78,Chi,Goff,chi.goff@aol.com,1522,2018-04-12,2018-04-12,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+110,Ollie,Zimmerman,ollie.zimmerman@yahoo.com,1530,2018-04-13,2018-04-13,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+233,Mariana,Strong,mariana.strong@msn.com,1531,2018-04-13,2018-04-13,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+187,Hedwig,Paul,hedwig.paul@msn.com,1540,2018-04-16,2018-04-16,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+5,Charolette,Rice,charolette.rice@msn.com,1544,2018-04-17,2018-04-17,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+67,Tommie,Melton,tommie.melton@gmail.com,1545,2018-04-17,2018-04-17,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+91,Marvin,Mullins,marvin.mullins@aol.com,1546,2018-04-17,2018-04-17,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+169,Karla,Kirk,karla.kirk@yahoo.com,1547,2018-04-17,2018-04-17,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+170,Regine,Gonzales,regine.gonzales@gmail.com,1548,2018-04-17,2018-04-17,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+30,Jamaal,Albert,jamaal.albert@gmail.com,1553,2018-04-18,2018-04-18,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+172,Jeanie,Kirkland,jeanie.kirkland@aol.com,1554,2018-04-18,2018-04-18,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+121,Lucy,Woods,lucy.woods@gmail.com,1557,2018-04-19,2018-04-19,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+46,Monika,Berg,monika.berg@gmail.com,1564,2018-04-21,2018-04-21,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+60,Neil,Mccall,neil.mccall@gmail.com,1565,2018-04-21,2018-04-21,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+72,Petronila,Norris,petronila.norris@aol.com,1566,2018-04-21,2018-04-21,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+89,Arvilla,Osborn,arvilla.osborn@gmail.com,1567,2018-04-21,2018-04-21,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+192,Bong,Hebert,bong.hebert@gmail.com,1568,2018-04-21,2018-04-21,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+24,Corene,Wall,corene.wall@msn.com,1573,2018-04-23,2018-04-23,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+124,Jeni,Booker,jeni.booker@gmail.com,1574,2018-04-23,2018-04-23,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+224,Moses,Pope,moses.pope@yahoo.com,1575,2018-04-23,2018-04-23,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+104,Katharina,Bates,katharina.bates@gmail.com,1579,2018-04-24,2018-04-24,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+191,Graciela,Barber,graciela.barber@hotmail.com,1580,2018-04-24,2018-04-24,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+188,Sharla,Flynn,sharla.flynn@hotmail.com,1581,2018-04-25,2018-04-25,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+240,Le,Deleon,le.deleon@msn.com,1582,2018-04-25,2018-04-25,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+109,Monica,Sears,monica.sears@aol.com,1584,2018-04-26,2018-04-26,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+157,Carola,Rodriquez,carola.rodriquez@hotmail.com,1585,2018-04-26,2018-04-26,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+176,Carley,Reynolds,carley.reynolds@gmail.com,1586,2018-04-26,2018-04-26,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+231,Jenee,Rasmussen,jenee.rasmussen@hotmail.com,1587,2018-04-26,2018-04-26,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+40,Ronna,Butler,ronna.butler@gmail.com,1589,2018-04-27,2018-04-27,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+138,Jone,Bernard,jone.bernard@hotmail.com,1590,2018-04-27,2018-04-27,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+165,Jeromy,Burch,jeromy.burch@msn.com,1591,2018-04-27,2018-04-27,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+239,Felice,Guzman,felice.guzman@hotmail.com,1598,2018-04-29,2018-04-29,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+33,Deloris,Burke,deloris.burke@hotmail.com,1607,2018-07-11,2018-07-11,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+53,Saturnina,Garner,saturnina.garner@gmail.com,1608,2018-07-12,2018-07-12,NULL,2,"Santa Cruz Bikes",santacruz@bikes.shop
+3,Tameka,Fisher,tameka.fisher@aol.com,1612,2018-10-21,2018-10-21,NULL,3,"Santa Cruz Bikes",santacruz@bikes.shop
+1212,Jaqueline,Cummings,jaqueline.cummings@hotmail.com,2,2016-01-01,2016-01-04,2016-01-03,6,"Baldwin Bikes",baldwin@bikes.shop
+523,Joshua,Robertson,joshua.robertson@gmail.com,3,2016-01-02,2016-01-05,2016-01-03,7,"Baldwin Bikes",baldwin@bikes.shop
+1324,Arla,Ellis,arla.ellis@yahoo.com,5,2016-01-03,2016-01-06,2016-01-06,6,"Baldwin Bikes",baldwin@bikes.shop
+94,Sharyn,Hopkins,sharyn.hopkins@hotmail.com,6,2016-01-04,2016-01-07,2016-01-05,6,"Baldwin Bikes",baldwin@bikes.shop
+324,Laureen,Paul,laureen.paul@yahoo.com,7,2016-01-04,2016-01-07,2016-01-05,6,"Baldwin Bikes",baldwin@bikes.shop
+1204,Leslie,Higgins,leslie.higgins@hotmail.com,8,2016-01-04,2016-01-05,2016-01-05,7,"Baldwin Bikes",baldwin@bikes.shop
+442,Alane,Munoz,alane.munoz@gmail.com,10,2016-01-05,2016-01-06,2016-01-06,6,"Baldwin Bikes",baldwin@bikes.shop
+1326,Tarra,Guerrero,tarra.guerrero@aol.com,11,2016-01-05,2016-01-08,2016-01-07,7,"Baldwin Bikes",baldwin@bikes.shop
+873,Patience,Clayton,patience.clayton@hotmail.com,13,2016-01-08,2016-01-11,2016-01-11,6,"Baldwin Bikes",baldwin@bikes.shop
+450,Ellsworth,Michael,ellsworth.michael@yahoo.com,15,2016-01-09,2016-01-10,2016-01-12,7,"Baldwin Bikes",baldwin@bikes.shop
+1250,Neoma,Daugherty,neoma.daugherty@gmail.com,21,2016-01-15,2016-01-16,2016-01-18,6,"Baldwin Bikes",baldwin@bikes.shop
+636,Ashton,Lott,ashton.lott@hotmail.com,24,2016-01-18,2016-01-20,2016-01-19,7,"Baldwin Bikes",baldwin@bikes.shop
+657,Sam,Lester,sam.lester@gmail.com,25,2016-01-18,2016-01-21,2016-01-21,6,"Baldwin Bikes",baldwin@bikes.shop
+1280,Jackeline,Colon,jackeline.colon@msn.com,26,2016-01-18,2016-01-21,2016-01-19,7,"Baldwin Bikes",baldwin@bikes.shop
+57,Pamala,Henry,pamala.henry@aol.com,27,2016-01-19,2016-01-21,2016-01-20,7,"Baldwin Bikes",baldwin@bikes.shop
+252,Eleni,Gordon,eleni.gordon@hotmail.com,28,2016-01-19,2016-01-20,2016-01-21,6,"Baldwin Bikes",baldwin@bikes.shop
+437,Laureen,Barry,laureen.barry@yahoo.com,29,2016-01-20,2016-01-22,2016-01-21,6,"Baldwin Bikes",baldwin@bikes.shop
+1348,Yvone,Guerrero,yvone.guerrero@aol.com,30,2016-01-20,2016-01-21,2016-01-21,6,"Baldwin Bikes",baldwin@bikes.shop
+236,Verona,O'neill,verona.o'neill@hotmail.com,33,2016-01-21,2016-01-22,2016-01-22,6,"Baldwin Bikes",baldwin@bikes.shop
+80,Sarai,Mckee,sarai.mckee@msn.com,34,2016-01-22,2016-01-25,2016-01-23,6,"Baldwin Bikes",baldwin@bikes.shop
+813,Neville,Mcclain,neville.mcclain@yahoo.com,35,2016-01-22,2016-01-25,2016-01-24,7,"Baldwin Bikes",baldwin@bikes.shop
+1321,Shantel,Gregory,shantel.gregory@yahoo.com,36,2016-01-23,2016-01-24,2016-01-24,6,"Baldwin Bikes",baldwin@bikes.shop
+164,Tomika,Larson,tomika.larson@yahoo.com,37,2016-01-25,2016-01-28,2016-01-26,6,"Baldwin Bikes",baldwin@bikes.shop
+583,Lashandra,Turner,lashandra.turner@hotmail.com,38,2016-01-25,2016-01-27,2016-01-26,7,"Baldwin Bikes",baldwin@bikes.shop
+1296,Travis,Whitley,travis.whitley@aol.com,39,2016-01-25,2016-01-26,2016-01-26,7,"Baldwin Bikes",baldwin@bikes.shop
+979,Ingeborg,Ellison,ingeborg.ellison@yahoo.com,41,2016-01-27,2016-01-30,2016-01-29,6,"Baldwin Bikes",baldwin@bikes.shop
+1095,Corene,Swanson,corene.swanson@aol.com,42,2016-01-27,2016-01-28,2016-01-30,7,"Baldwin Bikes",baldwin@bikes.shop
+1434,Elana,Miles,elana.miles@yahoo.com,43,2016-01-27,2016-01-28,2016-01-30,7,"Baldwin Bikes",baldwin@bikes.shop
+861,Olympia,Figueroa,olympia.figueroa@hotmail.com,44,2016-01-28,2016-01-31,2016-01-30,7,"Baldwin Bikes",baldwin@bikes.shop
+1220,Carissa,Cross,carissa.cross@yahoo.com,45,2016-01-28,2016-01-31,2016-01-31,7,"Baldwin Bikes",baldwin@bikes.shop
+746,Eldridge,Greer,eldridge.greer@aol.com,46,2016-01-29,2016-01-31,2016-01-31,7,"Baldwin Bikes",baldwin@bikes.shop
+1234,Joshua,Berg,joshua.berg@hotmail.com,47,2016-01-29,2016-01-30,2016-01-31,7,"Baldwin Bikes",baldwin@bikes.shop
+1012,Josephine,Dale,josephine.dale@aol.com,48,2016-01-30,2016-02-01,2016-02-02,7,"Baldwin Bikes",baldwin@bikes.shop
+608,Taisha,Vang,taisha.vang@yahoo.com,49,2016-01-31,2016-02-01,2016-02-02,6,"Baldwin Bikes",baldwin@bikes.shop
+1047,Jamaal,Baker,jamaal.baker@hotmail.com,51,2016-02-01,2016-02-02,2016-02-03,7,"Baldwin Bikes",baldwin@bikes.shop
+965,Margit,Osborn,margit.osborn@yahoo.com,53,2016-02-03,2016-02-04,2016-02-05,6,"Baldwin Bikes",baldwin@bikes.shop
+535,Inge,Olsen,inge.olsen@msn.com,54,2016-02-04,2016-02-07,2016-02-07,7,"Baldwin Bikes",baldwin@bikes.shop
+1173,Chanel,May,chanel.may@msn.com,55,2016-02-04,2016-02-07,2016-02-06,6,"Baldwin Bikes",baldwin@bikes.shop
+1241,Nathaniel,Davidson,nathaniel.davidson@hotmail.com,56,2016-02-04,2016-02-06,2016-02-07,6,"Baldwin Bikes",baldwin@bikes.shop
+1305,Dalia,Carson,dalia.carson@aol.com,57,2016-02-04,2016-02-06,2016-02-06,7,"Baldwin Bikes",baldwin@bikes.shop
+504,Tiana,Henderson,tiana.henderson@aol.com,58,2016-02-05,2016-02-07,2016-02-07,6,"Baldwin Bikes",baldwin@bikes.shop
+563,Rodney,Odom,rodney.odom@yahoo.com,59,2016-02-05,2016-02-07,2016-02-06,7,"Baldwin Bikes",baldwin@bikes.shop
+277,Mark,Garrett,mark.garrett@msn.com,61,2016-02-06,2016-02-09,2016-02-09,7,"Baldwin Bikes",baldwin@bikes.shop
+1075,Dann,Huff,dann.huff@gmail.com,63,2016-02-07,2016-02-09,2016-02-09,7,"Baldwin Bikes",baldwin@bikes.shop
+1185,Corine,Stuart,corine.stuart@msn.com,64,2016-02-07,2016-02-08,2016-02-09,6,"Baldwin Bikes",baldwin@bikes.shop
+996,Serafina,Clemons,serafina.clemons@gmail.com,65,2016-02-08,2016-02-09,2016-02-11,6,"Baldwin Bikes",baldwin@bikes.shop
+1253,Susannah,Fields,susannah.fields@hotmail.com,66,2016-02-09,2016-02-12,2016-02-12,7,"Baldwin Bikes",baldwin@bikes.shop
+381,Kristen,Alvarez,kristen.alvarez@aol.com,68,2016-02-10,2016-02-11,2016-02-13,6,"Baldwin Bikes",baldwin@bikes.shop
+1413,Ophelia,Decker,ophelia.decker@yahoo.com,69,2016-02-10,2016-02-12,2016-02-11,7,"Baldwin Bikes",baldwin@bikes.shop
+797,Cathey,Lamb,cathey.lamb@msn.com,71,2016-02-11,2016-02-14,2016-02-12,7,"Baldwin Bikes",baldwin@bikes.shop
+612,Gabriel,Wagner,gabriel.wagner@msn.com,73,2016-02-12,2016-02-15,2016-02-14,7,"Baldwin Bikes",baldwin@bikes.shop
+264,Mariela,Huffman,mariela.huffman@gmail.com,74,2016-02-13,2016-02-15,2016-02-15,7,"Baldwin Bikes",baldwin@bikes.shop
+587,Euna,Lopez,euna.lopez@gmail.com,75,2016-02-14,2016-02-15,2016-02-17,6,"Baldwin Bikes",baldwin@bikes.shop
+9,Genoveva,Baldwin,genoveva.baldwin@msn.com,76,2016-02-16,2016-02-16,NULL,6,"Baldwin Bikes",baldwin@bikes.shop
+1182,Trinidad,Chapman,trinidad.chapman@aol.com,78,2016-02-16,2016-02-18,2016-02-19,7,"Baldwin Bikes",baldwin@bikes.shop
+397,Jeannie,Wilcox,jeannie.wilcox@yahoo.com,80,2016-02-17,2016-02-20,2016-02-19,6,"Baldwin Bikes",baldwin@bikes.shop
+521,Max,Charles,max.charles@gmail.com,81,2016-02-17,2016-02-19,2016-02-18,6,"Baldwin Bikes",baldwin@bikes.shop
+1223,Bronwyn,Vargas,bronwyn.vargas@msn.com,82,2016-02-18,2016-02-21,2016-02-20,6,"Baldwin Bikes",baldwin@bikes.shop
+317,Christia,Wilkins,christia.wilkins@msn.com,84,2016-02-20,2016-02-22,2016-02-21,7,"Baldwin Bikes",baldwin@bikes.shop
+1174,Aaron,Knapp,aaron.knapp@yahoo.com,85,2016-02-20,2016-02-23,2016-02-21,7,"Baldwin Bikes",baldwin@bikes.shop
+276,Lavette,Wright,lavette.wright@msn.com,86,2016-02-21,2016-02-22,2016-02-23,7,"Baldwin Bikes",baldwin@bikes.shop
+516,Rosa,Kinney,rosa.kinney@yahoo.com,87,2016-02-21,2016-02-22,2016-02-23,6,"Baldwin Bikes",baldwin@bikes.shop
+1069,Rodolfo,Buck,rodolfo.buck@gmail.com,88,2016-02-21,2016-02-22,2016-02-23,6,"Baldwin Bikes",baldwin@bikes.shop
+414,Romaine,Haley,romaine.haley@aol.com,90,2016-02-23,2016-02-25,2016-02-24,7,"Baldwin Bikes",baldwin@bikes.shop
+1309,Kimberli,Cline,kimberli.cline@yahoo.com,92,2016-02-25,2016-02-28,2016-02-28,7,"Baldwin Bikes",baldwin@bikes.shop
+218,Casey,Gill,casey.gill@gmail.com,95,2016-02-27,2016-02-29,2016-02-28,7,"Baldwin Bikes",baldwin@bikes.shop
+1094,Keitha,Black,keitha.black@yahoo.com,96,2016-02-27,2016-02-29,2016-02-28,7,"Baldwin Bikes",baldwin@bikes.shop
+204,Alpha,King,alpha.king@hotmail.com,97,2016-02-28,2016-02-29,2016-03-01,7,"Baldwin Bikes",baldwin@bikes.shop
+1194,Leticia,Snyder,leticia.snyder@yahoo.com,98,2016-02-28,2016-02-29,2016-02-29,6,"Baldwin Bikes",baldwin@bikes.shop
+1237,Luke,Kramer,luke.kramer@hotmail.com,100,2016-03-01,2016-03-04,2016-03-03,7,"Baldwin Bikes",baldwin@bikes.shop
+336,Trisha,Johnson,trisha.johnson@msn.com,102,2016-03-02,2016-03-05,2016-03-03,7,"Baldwin Bikes",baldwin@bikes.shop
+7,Latasha,Hays,latasha.hays@hotmail.com,104,2016-03-03,2016-03-05,2016-03-05,7,"Baldwin Bikes",baldwin@bikes.shop
+306,Vikki,Erickson,vikki.erickson@yahoo.com,105,2016-03-03,2016-03-05,2016-03-04,7,"Baldwin Bikes",baldwin@bikes.shop
+12,Robby,Sykes,robby.sykes@hotmail.com,108,2016-03-06,2016-03-09,2016-03-07,6,"Baldwin Bikes",baldwin@bikes.shop
+1255,Ben,Stone,ben.stone@gmail.com,109,2016-03-06,2016-03-09,2016-03-09,6,"Baldwin Bikes",baldwin@bikes.shop
+630,Zulema,Browning,zulema.browning@gmail.com,111,2016-03-07,2016-03-10,2016-03-10,6,"Baldwin Bikes",baldwin@bikes.shop
+469,Micki,Rutledge,micki.rutledge@aol.com,112,2016-03-08,2016-03-11,2016-03-10,6,"Baldwin Bikes",baldwin@bikes.shop
+1078,Theresia,Barron,theresia.barron@aol.com,113,2016-03-08,2016-03-11,2016-03-11,6,"Baldwin Bikes",baldwin@bikes.shop
+1431,Mark,Benton,mark.benton@aol.com,114,2016-03-08,2016-03-10,2016-03-11,7,"Baldwin Bikes",baldwin@bikes.shop
+1369,Starr,Schneider,starr.schneider@aol.com,115,2016-03-09,2016-03-11,2016-03-11,7,"Baldwin Bikes",baldwin@bikes.shop
+471,Burma,Summers,burma.summers@yahoo.com,116,2016-03-10,2016-03-11,2016-03-11,7,"Baldwin Bikes",baldwin@bikes.shop
+740,Gwenn,Melton,gwenn.melton@yahoo.com,117,2016-03-10,2016-03-13,2016-03-11,6,"Baldwin Bikes",baldwin@bikes.shop
+925,Bryce,Monroe,bryce.monroe@aol.com,119,2016-03-12,2016-03-14,2016-03-14,7,"Baldwin Bikes",baldwin@bikes.shop
+327,Sharie,Alvarez,sharie.alvarez@msn.com,120,2016-03-14,2016-03-15,2016-03-17,7,"Baldwin Bikes",baldwin@bikes.shop
+755,Tomika,Wilder,tomika.wilder@aol.com,121,2016-03-14,2016-03-15,2016-03-16,6,"Baldwin Bikes",baldwin@bikes.shop
+786,Wallace,Lane,wallace.lane@aol.com,122,2016-03-14,2016-03-16,2016-03-15,6,"Baldwin Bikes",baldwin@bikes.shop
+766,Lecia,Hancock,lecia.hancock@hotmail.com,123,2016-03-15,2016-03-18,2016-03-17,6,"Baldwin Bikes",baldwin@bikes.shop
+685,Laverne,Craft,laverne.craft@aol.com,125,2016-03-16,2016-03-19,2016-03-17,6,"Baldwin Bikes",baldwin@bikes.shop
+1365,Shenna,Espinoza,shenna.espinoza@gmail.com,126,2016-03-16,2016-03-18,2016-03-18,7,"Baldwin Bikes",baldwin@bikes.shop
+86,Lissa,Vargas,lissa.vargas@yahoo.com,128,2016-03-18,2016-03-20,2016-03-21,6,"Baldwin Bikes",baldwin@bikes.shop
+84,Armand,Whitehead,armand.whitehead@hotmail.com,129,2016-03-19,2016-03-21,2016-03-21,7,"Baldwin Bikes",baldwin@bikes.shop
+1049,Marcelino,Mcbride,marcelino.mcbride@hotmail.com,130,2016-03-19,2016-03-22,2016-03-20,6,"Baldwin Bikes",baldwin@bikes.shop
+409,Jerome,Bolton,jerome.bolton@msn.com,133,2016-03-20,2016-03-22,2016-03-21,7,"Baldwin Bikes",baldwin@bikes.shop
+679,Tuan,Wolfe,tuan.wolfe@aol.com,134,2016-03-20,2016-03-21,2016-03-21,7,"Baldwin Bikes",baldwin@bikes.shop
+1354,Alexandria,Zamora,alexandria.zamora@yahoo.com,135,2016-03-21,2016-03-23,2016-03-23,7,"Baldwin Bikes",baldwin@bikes.shop
+370,Jina,Cooper,jina.cooper@aol.com,137,2016-03-23,2016-03-26,2016-03-25,7,"Baldwin Bikes",baldwin@bikes.shop
+438,Katharine,Herrera,katharine.herrera@hotmail.com,138,2016-03-23,2016-03-24,2016-03-25,7,"Baldwin Bikes",baldwin@bikes.shop
+710,Ezra,Silva,ezra.silva@msn.com,139,2016-03-23,2016-03-24,2016-03-26,7,"Baldwin Bikes",baldwin@bikes.shop
+1264,Devin,Velazquez,devin.velazquez@aol.com,140,2016-03-23,2016-03-26,2016-03-26,7,"Baldwin Bikes",baldwin@bikes.shop
+557,Erlene,Cook,erlene.cook@gmail.com,141,2016-03-25,2016-03-27,2016-03-26,7,"Baldwin Bikes",baldwin@bikes.shop
+693,Merlin,Foreman,merlin.foreman@msn.com,143,2016-03-26,2016-03-28,2016-03-28,7,"Baldwin Bikes",baldwin@bikes.shop
+1124,Hubert,Reilly,hubert.reilly@hotmail.com,144,2016-03-26,2016-03-29,2016-03-29,7,"Baldwin Bikes",baldwin@bikes.shop
+366,Lavonne,Anderson,lavonne.anderson@aol.com,145,2016-03-27,2016-03-29,2016-03-30,6,"Baldwin Bikes",baldwin@bikes.shop
+55,Diana,Guerra,diana.guerra@hotmail.com,147,2016-03-28,2016-03-31,2016-03-31,7,"Baldwin Bikes",baldwin@bikes.shop
+714,Senaida,Thompson,senaida.thompson@msn.com,148,2016-03-28,2016-03-30,2016-03-30,6,"Baldwin Bikes",baldwin@bikes.shop
+763,Han,Schneider,han.schneider@gmail.com,149,2016-03-28,2016-03-30,2016-03-29,6,"Baldwin Bikes",baldwin@bikes.shop
+76,Parker,Prince,parker.prince@hotmail.com,152,2016-03-29,2016-03-30,2016-03-30,6,"Baldwin Bikes",baldwin@bikes.shop
+498,Edda,Young,edda.young@gmail.com,153,2016-03-30,2016-04-02,2016-04-01,6,"Baldwin Bikes",baldwin@bikes.shop
+371,Loni,Duncan,loni.duncan@gmail.com,155,2016-04-02,2016-04-03,2016-04-04,6,"Baldwin Bikes",baldwin@bikes.shop
+205,Harris,Pittman,harris.pittman@yahoo.com,160,2016-04-04,2016-04-06,2016-04-06,7,"Baldwin Bikes",baldwin@bikes.shop
+251,Kasie,Rodriquez,kasie.rodriquez@aol.com,161,2016-04-04,2016-04-07,2016-04-05,7,"Baldwin Bikes",baldwin@bikes.shop
+1325,Magdalena,Sherman,magdalena.sherman@gmail.com,163,2016-04-06,2016-04-07,2016-04-07,7,"Baldwin Bikes",baldwin@bikes.shop
+610,Leonore,Dorsey,leonore.dorsey@yahoo.com,164,2016-04-07,2016-04-08,2016-04-09,7,"Baldwin Bikes",baldwin@bikes.shop
+338,Abbey,Pugh,abbey.pugh@gmail.com,166,2016-04-08,2016-04-11,2016-04-11,6,"Baldwin Bikes",baldwin@bikes.shop
+1034,Rico,Salas,rico.salas@msn.com,167,2016-04-08,2016-04-09,2016-04-11,7,"Baldwin Bikes",baldwin@bikes.shop
+99,Carie,Kidd,carie.kidd@yahoo.com,169,2016-04-10,2016-04-11,2016-04-11,7,"Baldwin Bikes",baldwin@bikes.shop
+1200,Aubrey,Durham,aubrey.durham@aol.com,170,2016-04-10,2016-04-11,2016-04-13,7,"Baldwin Bikes",baldwin@bikes.shop
+1079,Cindi,Ellis,cindi.ellis@yahoo.com,172,2016-04-11,2016-04-12,2016-04-14,7,"Baldwin Bikes",baldwin@bikes.shop
+1361,Destiny,Goodman,destiny.goodman@msn.com,174,2016-04-12,2016-04-13,2016-04-15,7,"Baldwin Bikes",baldwin@bikes.shop
+951,Steve,Bender,steve.bender@gmail.com,175,2016-04-13,2016-04-14,2016-04-14,6,"Baldwin Bikes",baldwin@bikes.shop
+643,Melba,Wilkinson,melba.wilkinson@gmail.com,176,2016-04-15,2016-04-16,2016-04-17,7,"Baldwin Bikes",baldwin@bikes.shop
+756,Graig,Roth,graig.roth@aol.com,178,2016-04-16,2016-04-17,2016-04-18,6,"Baldwin Bikes",baldwin@bikes.shop
+616,Shery,Acosta,shery.acosta@yahoo.com,179,2016-04-17,2016-04-19,2016-04-19,6,"Baldwin Bikes",baldwin@bikes.shop
+918,Kristel,Bullock,kristel.bullock@yahoo.com,180,2016-04-17,2016-04-20,2016-04-19,7,"Baldwin Bikes",baldwin@bikes.shop
+854,Phylis,Adkins,phylis.adkins@msn.com,182,2016-04-18,2016-04-19,2016-04-20,6,"Baldwin Bikes",baldwin@bikes.shop
+22,Adelle,Larsen,adelle.larsen@gmail.com,183,2016-04-19,2016-04-20,2016-04-20,7,"Baldwin Bikes",baldwin@bikes.shop
+134,Brianna,Moss,brianna.moss@msn.com,184,2016-04-19,2016-04-21,2016-04-22,7,"Baldwin Bikes",baldwin@bikes.shop
+1127,Waldo,Hart,waldo.hart@yahoo.com,186,2016-04-21,2016-04-22,2016-04-24,6,"Baldwin Bikes",baldwin@bikes.shop
+183,Jeniffer,Ratliff,jeniffer.ratliff@gmail.com,187,2016-04-22,2016-04-23,2016-04-24,6,"Baldwin Bikes",baldwin@bikes.shop
+390,Lorrie,Pollard,lorrie.pollard@yahoo.com,188,2016-04-22,2016-04-23,2016-04-25,6,"Baldwin Bikes",baldwin@bikes.shop
+98,Violet,Valenzuela,violet.valenzuela@msn.com,190,2016-04-23,2016-04-25,2016-04-25,6,"Baldwin Bikes",baldwin@bikes.shop
+728,Viva,Dawson,viva.dawson@yahoo.com,192,2016-04-27,2016-04-28,2016-04-29,7,"Baldwin Bikes",baldwin@bikes.shop
+558,Carroll,Kelly,carroll.kelly@yahoo.com,194,2016-04-28,2016-04-30,2016-05-01,7,"Baldwin Bikes",baldwin@bikes.shop
+727,Kasha,Sullivan,kasha.sullivan@hotmail.com,195,2016-04-28,2016-05-01,2016-05-01,7,"Baldwin Bikes",baldwin@bikes.shop
+1247,Tammie,Cherry,tammie.cherry@hotmail.com,196,2016-04-28,2016-04-30,2016-05-01,6,"Baldwin Bikes",baldwin@bikes.shop
+127,Erlinda,Nielsen,erlinda.nielsen@aol.com,197,2016-04-30,2016-05-03,2016-05-03,7,"Baldwin Bikes",baldwin@bikes.shop
+640,Allison,Nolan,allison.nolan@gmail.com,198,2016-05-01,2016-05-04,2016-05-03,6,"Baldwin Bikes",baldwin@bikes.shop
+760,Marisa,Chambers,marisa.chambers@msn.com,199,2016-05-01,2016-05-04,2016-05-04,7,"Baldwin Bikes",baldwin@bikes.shop
+1074,Lanelle,Guerra,lanelle.guerra@yahoo.com,200,2016-05-01,2016-05-03,2016-05-03,6,"Baldwin Bikes",baldwin@bikes.shop
+591,Danilo,Holmes,danilo.holmes@gmail.com,204,2016-05-04,2016-05-07,2016-05-06,7,"Baldwin Bikes",baldwin@bikes.shop
+635,Myrtie,James,myrtie.james@yahoo.com,205,2016-05-04,2016-05-05,2016-05-06,6,"Baldwin Bikes",baldwin@bikes.shop
+105,Marget,Hodge,marget.hodge@msn.com,207,2016-05-05,2016-05-07,2016-05-07,7,"Baldwin Bikes",baldwin@bikes.shop
+815,Leanna,Manning,leanna.manning@yahoo.com,208,2016-05-06,2016-05-07,2016-05-09,7,"Baldwin Bikes",baldwin@bikes.shop
+514,Clarita,Curry,clarita.curry@hotmail.com,209,2016-05-07,2016-05-08,2016-05-08,6,"Baldwin Bikes",baldwin@bikes.shop
+943,Lynn,Mcmahon,lynn.mcmahon@msn.com,210,2016-05-07,2016-05-08,2016-05-09,6,"Baldwin Bikes",baldwin@bikes.shop
+1140,Penney,Hall,penney.hall@msn.com,211,2016-05-07,2016-05-09,2016-05-08,6,"Baldwin Bikes",baldwin@bikes.shop
+1373,Lanora,Robbins,lanora.robbins@hotmail.com,212,2016-05-08,2016-05-09,2016-05-11,6,"Baldwin Bikes",baldwin@bikes.shop
+363,Kaci,Gallegos,kaci.gallegos@gmail.com,214,2016-05-10,2016-05-12,2016-05-11,6,"Baldwin Bikes",baldwin@bikes.shop
+1420,Kelsey,Noble,kelsey.noble@hotmail.com,215,2016-05-10,2016-05-13,2016-05-12,7,"Baldwin Bikes",baldwin@bikes.shop
+716,Sebrina,Hart,sebrina.hart@yahoo.com,217,2016-05-11,2016-05-12,2016-05-14,7,"Baldwin Bikes",baldwin@bikes.shop
+1179,Vernetta,Banks,vernetta.banks@aol.com,218,2016-05-12,2016-05-14,2016-05-14,7,"Baldwin Bikes",baldwin@bikes.shop
+1338,Inez,Snider,inez.snider@gmail.com,219,2016-05-12,2016-05-15,2016-05-15,6,"Baldwin Bikes",baldwin@bikes.shop
+1358,Noble,Glover,noble.glover@gmail.com,220,2016-05-12,2016-05-14,2016-05-15,6,"Baldwin Bikes",baldwin@bikes.shop
+51,Gertrud,Rhodes,gertrud.rhodes@aol.com,222,2016-05-13,2016-05-16,2016-05-14,6,"Baldwin Bikes",baldwin@bikes.shop
+1368,Veronique,Fulton,veronique.fulton@yahoo.com,223,2016-05-15,2016-05-16,2016-05-17,7,"Baldwin Bikes",baldwin@bikes.shop
+489,Kirstie,Vazquez,kirstie.vazquez@gmail.com,227,2016-05-17,2016-05-18,2016-05-20,7,"Baldwin Bikes",baldwin@bikes.shop
+615,Jamika,Blanchard,jamika.blanchard@gmail.com,228,2016-05-17,2016-05-20,2016-05-20,7,"Baldwin Bikes",baldwin@bikes.shop
+742,Evelina,Manning,evelina.manning@aol.com,229,2016-05-19,2016-05-21,2016-05-20,6,"Baldwin Bikes",baldwin@bikes.shop
+1167,Ryan,Carter,ryan.carter@yahoo.com,230,2016-05-19,2016-05-20,2016-05-21,6,"Baldwin Bikes",baldwin@bikes.shop
+1257,Rosamaria,Meyer,rosamaria.meyer@yahoo.com,231,2016-05-19,2016-05-22,2016-05-21,6,"Baldwin Bikes",baldwin@bikes.shop
+737,Melita,Dominguez,melita.dominguez@msn.com,233,2016-05-21,2016-05-22,2016-05-24,6,"Baldwin Bikes",baldwin@bikes.shop
+1435,Merrie,Fowler,merrie.fowler@aol.com,234,2016-05-22,2016-05-24,2016-05-24,6,"Baldwin Bikes",baldwin@bikes.shop
+649,Eli,Contreras,eli.contreras@hotmail.com,235,2016-05-24,2016-05-25,2016-05-25,6,"Baldwin Bikes",baldwin@bikes.shop
+206,Stephaine,Riddle,stephaine.riddle@hotmail.com,236,2016-05-25,2016-05-27,2016-05-26,6,"Baldwin Bikes",baldwin@bikes.shop
+1351,Carman,Hardy,carman.hardy@yahoo.com,237,2016-05-25,2016-05-26,2016-05-27,7,"Baldwin Bikes",baldwin@bikes.shop
+1350,Annett,Rush,annett.rush@hotmail.com,238,2016-05-26,2016-05-29,2016-05-29,6,"Baldwin Bikes",baldwin@bikes.shop
+65,Kanesha,Vega,kanesha.vega@gmail.com,240,2016-05-27,2016-05-29,2016-05-30,6,"Baldwin Bikes",baldwin@bikes.shop
+1082,Divina,Madden,divina.madden@gmail.com,241,2016-05-27,2016-05-29,2016-05-29,7,"Baldwin Bikes",baldwin@bikes.shop
+1168,Almeta,Benjamin,almeta.benjamin@aol.com,242,2016-05-27,2016-05-30,2016-05-30,7,"Baldwin Bikes",baldwin@bikes.shop
+956,Venus,Hewitt,venus.hewitt@msn.com,244,2016-05-28,2016-05-29,2016-05-29,6,"Baldwin Bikes",baldwin@bikes.shop
+223,Scarlet,Yates,scarlet.yates@hotmail.com,245,2016-05-29,2016-05-31,2016-05-30,7,"Baldwin Bikes",baldwin@bikes.shop
+17,Caren,Stephens,caren.stephens@msn.com,246,2016-05-30,2016-05-30,NULL,6,"Baldwin Bikes",baldwin@bikes.shop
+1376,Kimberley,Reynolds,kimberley.reynolds@aol.com,248,2016-05-30,2016-06-01,2016-05-31,7,"Baldwin Bikes",baldwin@bikes.shop
+145,Miquel,Neal,miquel.neal@hotmail.com,249,2016-06-01,2016-06-04,2016-06-04,6,"Baldwin Bikes",baldwin@bikes.shop
+150,Weldon,Michael,weldon.michael@hotmail.com,250,2016-06-01,2016-06-02,2016-06-04,7,"Baldwin Bikes",baldwin@bikes.shop
+851,Arlena,Buckner,arlena.buckner@hotmail.com,251,2016-06-01,2016-06-04,2016-06-04,7,"Baldwin Bikes",baldwin@bikes.shop
+1267,Earline,Gordon,earline.gordon@gmail.com,253,2016-06-02,2016-06-05,2016-06-05,6,"Baldwin Bikes",baldwin@bikes.shop
+510,Faustino,Delacruz,faustino.delacruz@msn.com,254,2016-06-03,2016-06-06,2016-06-05,7,"Baldwin Bikes",baldwin@bikes.shop
+801,Ophelia,Rodgers,ophelia.rodgers@gmail.com,255,2016-06-03,2016-06-06,2016-06-05,7,"Baldwin Bikes",baldwin@bikes.shop
+26,Theo,Reese,theo.reese@gmail.com,256,2016-06-04,2016-06-05,2016-06-07,7,"Baldwin Bikes",baldwin@bikes.shop
+107,Cecil,Hopper,cecil.hopper@yahoo.com,258,2016-06-06,2016-06-07,2016-06-07,7,"Baldwin Bikes",baldwin@bikes.shop
+413,Ginette,Edwards,ginette.edwards@hotmail.com,259,2016-06-06,2016-06-09,2016-06-09,7,"Baldwin Bikes",baldwin@bikes.shop
+632,Yvette,Rogers,yvette.rogers@aol.com,260,2016-06-06,2016-06-08,2016-06-08,6,"Baldwin Bikes",baldwin@bikes.shop
+1322,Ai,Forbes,ai.forbes@yahoo.com,263,2016-06-09,2016-06-10,2016-06-12,6,"Baldwin Bikes",baldwin@bikes.shop
+682,Arnita,Thomas,arnita.thomas@gmail.com,265,2016-06-10,2016-06-12,2016-06-11,7,"Baldwin Bikes",baldwin@bikes.shop
+933,Lurline,Rivers,lurline.rivers@msn.com,266,2016-06-10,2016-06-13,2016-06-13,7,"Baldwin Bikes",baldwin@bikes.shop
+764,Terrell,Mathis,terrell.mathis@aol.com,269,2016-06-12,2016-06-13,2016-06-15,6,"Baldwin Bikes",baldwin@bikes.shop
+879,Ethelyn,Ray,ethelyn.ray@yahoo.com,270,2016-06-12,2016-06-15,2016-06-13,7,"Baldwin Bikes",baldwin@bikes.shop
+350,Christoper,Mccall,christoper.mccall@msn.com,271,2016-06-13,2016-06-16,2016-06-14,7,"Baldwin Bikes",baldwin@bikes.shop
+497,Ezra,Fowler,ezra.fowler@hotmail.com,272,2016-06-15,2016-06-18,2016-06-16,7,"Baldwin Bikes",baldwin@bikes.shop
+1340,Tona,Velasquez,tona.velasquez@msn.com,273,2016-06-16,2016-06-19,2016-06-17,7,"Baldwin Bikes",baldwin@bikes.shop
+411,Octavia,Case,octavia.case@aol.com,274,2016-06-17,2016-06-20,2016-06-18,7,"Baldwin Bikes",baldwin@bikes.shop
+1341,Rozanne,Reyes,rozanne.reyes@aol.com,275,2016-06-17,2016-06-19,2016-06-18,7,"Baldwin Bikes",baldwin@bikes.shop
+1227,Magali,Dixon,magali.dixon@msn.com,276,2016-06-18,2016-06-19,2016-06-19,6,"Baldwin Bikes",baldwin@bikes.shop
+546,Thad,Castro,thad.castro@msn.com,277,2016-06-19,2016-06-20,2016-06-20,7,"Baldwin Bikes",baldwin@bikes.shop
+378,Rosalba,O'neal,rosalba.o'neal@yahoo.com,279,2016-06-21,2016-06-22,2016-06-22,6,"Baldwin Bikes",baldwin@bikes.shop
+638,Tomeka,Higgins,tomeka.higgins@msn.com,280,2016-06-21,2016-06-22,2016-06-23,7,"Baldwin Bikes",baldwin@bikes.shop
+800,Cris,Dunn,cris.dunn@yahoo.com,281,2016-06-21,2016-06-22,2016-06-23,7,"Baldwin Bikes",baldwin@bikes.shop
+1356,Inger,Jennings,inger.jennings@yahoo.com,284,2016-06-23,2016-06-25,2016-06-25,7,"Baldwin Bikes",baldwin@bikes.shop
+59,Latasha,Stanley,latasha.stanley@gmail.com,286,2016-06-25,2016-06-26,2016-06-26,6,"Baldwin Bikes",baldwin@bikes.shop
+133,Delbert,Wilkins,delbert.wilkins@aol.com,287,2016-06-25,2016-06-26,2016-06-27,6,"Baldwin Bikes",baldwin@bikes.shop
+780,Ouida,Gregory,ouida.gregory@aol.com,288,2016-06-25,2016-06-28,2016-06-28,6,"Baldwin Bikes",baldwin@bikes.shop
+849,Phyllis,Hill,phyllis.hill@yahoo.com,289,2016-06-27,2016-06-28,2016-06-30,6,"Baldwin Bikes",baldwin@bikes.shop
+202,Marni,Bolton,marni.bolton@msn.com,290,2016-06-28,2016-06-29,2016-06-30,6,"Baldwin Bikes",baldwin@bikes.shop
+158,Alane,Kennedy,alane.kennedy@yahoo.com,291,2016-06-29,2016-06-30,2016-07-01,6,"Baldwin Bikes",baldwin@bikes.shop
+573,Rubye,Mccall,rubye.mccall@hotmail.com,293,2016-06-30,2016-07-03,2016-07-02,7,"Baldwin Bikes",baldwin@bikes.shop
+732,Lavona,Austin,lavona.austin@yahoo.com,294,2016-07-01,2016-07-02,2016-07-02,7,"Baldwin Bikes",baldwin@bikes.shop
+1130,Benny,Bender,benny.bender@aol.com,295,2016-07-01,2016-07-04,2016-07-04,7,"Baldwin Bikes",baldwin@bikes.shop
+1245,Gabriela,Warren,gabriela.warren@aol.com,296,2016-07-04,2016-07-07,2016-07-06,6,"Baldwin Bikes",baldwin@bikes.shop
+1425,Justina,Jenkins,justina.jenkins@msn.com,297,2016-07-04,2016-07-05,2016-07-06,7,"Baldwin Bikes",baldwin@bikes.shop
+281,Rayna,Perry,rayna.perry@hotmail.com,299,2016-07-05,2016-07-06,2016-07-07,6,"Baldwin Bikes",baldwin@bikes.shop
+1205,Emmaline,Huber,emmaline.huber@gmail.com,300,2016-07-05,2016-07-08,2016-07-08,6,"Baldwin Bikes",baldwin@bikes.shop
+17,Caren,Stephens,caren.stephens@msn.com,301,2016-07-06,2016-07-09,2016-07-08,6,"Baldwin Bikes",baldwin@bikes.shop
+1375,Carlena,Salinas,carlena.salinas@gmail.com,302,2016-07-06,2016-07-07,2016-07-09,6,"Baldwin Bikes",baldwin@bikes.shop
+36,Bernita,Mcdaniel,bernita.mcdaniel@hotmail.com,303,2016-07-07,2016-07-08,2016-07-09,7,"Baldwin Bikes",baldwin@bikes.shop
+230,Chelsey,Hardin,chelsey.hardin@hotmail.com,304,2016-07-07,2016-07-08,2016-07-08,6,"Baldwin Bikes",baldwin@bikes.shop
+705,Camille,Harvey,camille.harvey@hotmail.com,305,2016-07-07,2016-07-08,2016-07-08,7,"Baldwin Bikes",baldwin@bikes.shop
+424,Charleen,Hurst,charleen.hurst@yahoo.com,306,2016-07-09,2016-07-10,2016-07-12,7,"Baldwin Bikes",baldwin@bikes.shop
+695,Christoper,Gould,christoper.gould@aol.com,307,2016-07-09,2016-07-11,2016-07-11,6,"Baldwin Bikes",baldwin@bikes.shop
+156,Charlyn,Cantrell,charlyn.cantrell@yahoo.com,308,2016-07-11,2016-07-12,2016-07-14,6,"Baldwin Bikes",baldwin@bikes.shop
+211,Gilma,Dejesus,gilma.dejesus@yahoo.com,309,2016-07-11,2016-07-13,2016-07-13,6,"Baldwin Bikes",baldwin@bikes.shop
+1400,Shayla,Hart,shayla.hart@msn.com,311,2016-07-12,2016-07-14,2016-07-13,6,"Baldwin Bikes",baldwin@bikes.shop
+299,Jame,Riggs,jame.riggs@hotmail.com,312,2016-07-13,2016-07-15,2016-07-16,6,"Baldwin Bikes",baldwin@bikes.shop
+1019,Janie,Herrera,janie.herrera@gmail.com,314,2016-07-15,2016-07-17,2016-07-17,7,"Baldwin Bikes",baldwin@bikes.shop
+1263,Rufina,Chandler,rufina.chandler@aol.com,315,2016-07-16,2016-07-19,2016-07-17,6,"Baldwin Bikes",baldwin@bikes.shop
+670,Shawnda,Glover,shawnda.glover@gmail.com,316,2016-07-17,2016-07-20,2016-07-19,7,"Baldwin Bikes",baldwin@bikes.shop
+795,Mariam,Miranda,mariam.miranda@aol.com,317,2016-07-17,2016-07-20,2016-07-19,7,"Baldwin Bikes",baldwin@bikes.shop
+1141,Mallie,Osborn,mallie.osborn@gmail.com,318,2016-07-17,2016-07-19,2016-07-20,7,"Baldwin Bikes",baldwin@bikes.shop
+941,Danyell,Dickerson,danyell.dickerson@msn.com,319,2016-07-18,2016-07-21,2016-07-21,6,"Baldwin Bikes",baldwin@bikes.shop
+568,Arcelia,Vinson,arcelia.vinson@gmail.com,321,2016-07-19,2016-07-22,2016-07-21,6,"Baldwin Bikes",baldwin@bikes.shop
+924,Lea,Irwin,lea.irwin@gmail.com,322,2016-07-19,2016-07-22,2016-07-20,6,"Baldwin Bikes",baldwin@bikes.shop
+1243,Heide,Reed,heide.reed@yahoo.com,323,2016-07-19,2016-07-22,2016-07-21,6,"Baldwin Bikes",baldwin@bikes.shop
+480,Garland,Weaver,garland.weaver@gmail.com,324,2016-07-20,2016-07-22,2016-07-23,6,"Baldwin Bikes",baldwin@bikes.shop
+848,Ernestina,Skinner,ernestina.skinner@hotmail.com,325,2016-07-20,2016-07-21,2016-07-21,6,"Baldwin Bikes",baldwin@bikes.shop
+83,Tiesha,Daniel,tiesha.daniel@yahoo.com,327,2016-07-21,2016-07-24,2016-07-22,6,"Baldwin Bikes",baldwin@bikes.shop
+528,Angele,Schroeder,angele.schroeder@yahoo.com,328,2016-07-23,2016-07-26,2016-07-25,6,"Baldwin Bikes",baldwin@bikes.shop
+274,Josh,Shaw,josh.shaw@gmail.com,329,2016-07-24,2016-07-27,2016-07-26,6,"Baldwin Bikes",baldwin@bikes.shop
+622,Gabriel,Pitts,gabriel.pitts@gmail.com,330,2016-07-24,2016-07-27,2016-07-27,6,"Baldwin Bikes",baldwin@bikes.shop
+642,Yang,Roth,yang.roth@aol.com,331,2016-07-24,2016-07-26,2016-07-25,6,"Baldwin Bikes",baldwin@bikes.shop
+659,Antonetta,Rocha,antonetta.rocha@yahoo.com,332,2016-07-24,2016-07-26,2016-07-26,7,"Baldwin Bikes",baldwin@bikes.shop
+779,Major,Merrill,major.merrill@aol.com,333,2016-07-25,2016-07-27,2016-07-26,6,"Baldwin Bikes",baldwin@bikes.shop
+1112,Hollis,Rasmussen,hollis.rasmussen@yahoo.com,334,2016-07-25,2016-07-28,2016-07-27,7,"Baldwin Bikes",baldwin@bikes.shop
+1193,Phebe,Soto,phebe.soto@hotmail.com,335,2016-07-25,2016-07-27,2016-07-26,6,"Baldwin Bikes",baldwin@bikes.shop
+1030,Saran,Moses,saran.moses@yahoo.com,336,2016-07-26,2016-07-29,2016-07-27,7,"Baldwin Bikes",baldwin@bikes.shop
+1252,Adriene,Rollins,adriene.rollins@msn.com,337,2016-07-26,2016-07-27,2016-07-28,7,"Baldwin Bikes",baldwin@bikes.shop
+1110,Shirely,Cantrell,shirely.cantrell@aol.com,339,2016-07-28,2016-07-31,2016-07-29,7,"Baldwin Bikes",baldwin@bikes.shop
+963,Anisha,Lang,anisha.lang@aol.com,340,2016-07-29,2016-07-30,2016-07-31,7,"Baldwin Bikes",baldwin@bikes.shop
+806,Reyes,Merritt,reyes.merritt@yahoo.com,342,2016-07-31,2016-08-01,2016-08-03,7,"Baldwin Bikes",baldwin@bikes.shop
+961,Iva,Wilcox,iva.wilcox@aol.com,343,2016-07-31,2016-08-02,2016-08-01,7,"Baldwin Bikes",baldwin@bikes.shop
+750,Romaine,Salazar,romaine.salazar@yahoo.com,344,2016-08-01,2016-08-03,2016-08-02,6,"Baldwin Bikes",baldwin@bikes.shop
+1299,Shauna,Edwards,shauna.edwards@msn.com,345,2016-08-01,2016-08-04,2016-08-03,6,"Baldwin Bikes",baldwin@bikes.shop
+1004,Jerald,Blackwell,jerald.blackwell@hotmail.com,347,2016-08-02,2016-08-03,2016-08-05,6,"Baldwin Bikes",baldwin@bikes.shop
+16,Emmitt,Sanchez,emmitt.sanchez@hotmail.com,352,2016-08-03,2016-08-04,2016-08-06,7,"Baldwin Bikes",baldwin@bikes.shop
+1387,Phylicia,Stout,phylicia.stout@aol.com,353,2016-08-03,2016-08-06,2016-08-06,7,"Baldwin Bikes",baldwin@bikes.shop
+1189,Sheila,Goodman,sheila.goodman@msn.com,356,2016-08-04,2016-08-07,2016-08-06,6,"Baldwin Bikes",baldwin@bikes.shop
+1042,Larissa,Hays,larissa.hays@aol.com,358,2016-08-05,2016-08-07,2016-08-07,7,"Baldwin Bikes",baldwin@bikes.shop
+441,Dorthea,Walker,dorthea.walker@aol.com,359,2016-08-07,2016-08-10,2016-08-10,7,"Baldwin Bikes",baldwin@bikes.shop
+1300,Clorinda,Donovan,clorinda.donovan@msn.com,360,2016-08-07,2016-08-09,2016-08-10,6,"Baldwin Bikes",baldwin@bikes.shop
+994,Demarcus,Reese,demarcus.reese@gmail.com,361,2016-08-08,2016-08-09,2016-08-11,6,"Baldwin Bikes",baldwin@bikes.shop
+373,Mariette,Trevino,mariette.trevino@aol.com,364,2016-08-12,2016-08-14,2016-08-13,6,"Baldwin Bikes",baldwin@bikes.shop
+981,Christel,Cardenas,christel.cardenas@aol.com,365,2016-08-13,2016-08-14,2016-08-15,6,"Baldwin Bikes",baldwin@bikes.shop
+527,Afton,Juarez,afton.juarez@gmail.com,367,2016-08-14,2016-08-15,2016-08-15,7,"Baldwin Bikes",baldwin@bikes.shop
+995,Amina,Salazar,amina.salazar@aol.com,368,2016-08-14,2016-08-15,2016-08-17,7,"Baldwin Bikes",baldwin@bikes.shop
+758,Raymonde,Garcia,raymonde.garcia@aol.com,370,2016-08-15,2016-08-18,2016-08-18,7,"Baldwin Bikes",baldwin@bikes.shop
+891,Ashlie,Parrish,ashlie.parrish@hotmail.com,371,2016-08-15,2016-08-16,2016-08-18,7,"Baldwin Bikes",baldwin@bikes.shop
+132,Boyd,Irwin,boyd.irwin@hotmail.com,372,2016-08-16,2016-08-18,2016-08-18,6,"Baldwin Bikes",baldwin@bikes.shop
+337,Majorie,Wyatt,majorie.wyatt@yahoo.com,373,2016-08-16,2016-08-19,2016-08-17,7,"Baldwin Bikes",baldwin@bikes.shop
+536,Christiane,Bradford,christiane.bradford@gmail.com,375,2016-08-17,2016-08-20,2016-08-20,7,"Baldwin Bikes",baldwin@bikes.shop
+825,Kristel,Byrd,kristel.byrd@hotmail.com,376,2016-08-17,2016-08-19,2016-08-18,6,"Baldwin Bikes",baldwin@bikes.shop
+1355,Thad,Gilliam,thad.gilliam@hotmail.com,377,2016-08-17,2016-08-19,2016-08-20,6,"Baldwin Bikes",baldwin@bikes.shop
+954,Hassan,Nash,hassan.nash@yahoo.com,379,2016-08-18,2016-08-21,2016-08-21,7,"Baldwin Bikes",baldwin@bikes.shop
+1156,Han,Wade,han.wade@hotmail.com,380,2016-08-19,2016-08-20,2016-08-21,7,"Baldwin Bikes",baldwin@bikes.shop
+1297,Vanessa,West,vanessa.west@gmail.com,381,2016-08-19,2016-08-21,2016-08-21,7,"Baldwin Bikes",baldwin@bikes.shop
+199,Clelia,Workman,clelia.workman@yahoo.com,382,2016-08-20,2016-08-23,2016-08-23,6,"Baldwin Bikes",baldwin@bikes.shop
+331,Aleta,Mack,aleta.mack@yahoo.com,383,2016-08-20,2016-08-23,2016-08-22,7,"Baldwin Bikes",baldwin@bikes.shop
+410,Conception,Slater,conception.slater@gmail.com,384,2016-08-20,2016-08-22,2016-08-23,7,"Baldwin Bikes",baldwin@bikes.shop
+1274,Odette,Moses,odette.moses@gmail.com,385,2016-08-20,2016-08-23,2016-08-22,7,"Baldwin Bikes",baldwin@bikes.shop
+1362,Christiana,Gross,christiana.gross@yahoo.com,386,2016-08-20,2016-08-23,2016-08-23,6,"Baldwin Bikes",baldwin@bikes.shop
+368,Alysha,Powers,alysha.powers@msn.com,393,2016-08-25,2016-08-26,2016-08-27,6,"Baldwin Bikes",baldwin@bikes.shop
+144,Hans,Price,hans.price@hotmail.com,395,2016-08-26,2016-08-27,2016-08-29,6,"Baldwin Bikes",baldwin@bikes.shop
+542,Timothy,Byers,timothy.byers@msn.com,396,2016-08-27,2016-08-30,2016-08-29,6,"Baldwin Bikes",baldwin@bikes.shop
+1437,Son,Warner,son.warner@hotmail.com,397,2016-08-28,2016-08-31,2016-08-29,7,"Baldwin Bikes",baldwin@bikes.shop
+1001,Lee,Roman,lee.roman@gmail.com,399,2016-08-29,2016-09-01,2016-09-01,7,"Baldwin Bikes",baldwin@bikes.shop
+1295,Alline,Beasley,alline.beasley@yahoo.com,400,2016-08-29,2016-08-30,2016-08-31,6,"Baldwin Bikes",baldwin@bikes.shop
+103,Sylvie,Wilkerson,sylvie.wilkerson@yahoo.com,401,2016-08-30,2016-09-02,2016-09-01,6,"Baldwin Bikes",baldwin@bikes.shop
+1335,Corina,Lynch,corina.lynch@msn.com,402,2016-08-30,2016-09-01,2016-08-31,6,"Baldwin Bikes",baldwin@bikes.shop
+396,Laverna,Hernandez,laverna.hernandez@hotmail.com,404,2016-08-31,2016-09-03,2016-09-01,7,"Baldwin Bikes",baldwin@bikes.shop
+603,Genevieve,Juarez,genevieve.juarez@gmail.com,405,2016-08-31,2016-09-01,2016-09-01,6,"Baldwin Bikes",baldwin@bikes.shop
+1380,Eliz,Lynch,eliz.lynch@hotmail.com,406,2016-08-31,2016-09-02,2016-09-01,7,"Baldwin Bikes",baldwin@bikes.shop
+416,Luke,Fuller,luke.fuller@hotmail.com,409,2016-09-01,2016-09-04,2016-09-04,7,"Baldwin Bikes",baldwin@bikes.shop
+1151,Herminia,Reyes,herminia.reyes@gmail.com,410,2016-09-01,2016-09-03,2016-09-02,6,"Baldwin Bikes",baldwin@bikes.shop
+717,Kristofer,Craig,kristofer.craig@yahoo.com,413,2016-09-02,2016-09-05,2016-09-03,6,"Baldwin Bikes",baldwin@bikes.shop
+917,Vernia,Madden,vernia.madden@aol.com,414,2016-09-03,2016-09-06,2016-09-06,7,"Baldwin Bikes",baldwin@bikes.shop
+1265,Bonita,Marshall,bonita.marshall@msn.com,415,2016-09-03,2016-09-06,2016-09-06,7,"Baldwin Bikes",baldwin@bikes.shop
+1377,Johana,Jacobson,johana.jacobson@gmail.com,416,2016-09-03,2016-09-04,2016-09-06,7,"Baldwin Bikes",baldwin@bikes.shop
+88,Titus,Bullock,titus.bullock@gmail.com,418,2016-09-04,2016-09-05,2016-09-05,6,"Baldwin Bikes",baldwin@bikes.shop
+398,Suellen,Mercado,suellen.mercado@yahoo.com,422,2016-09-06,2016-09-07,2016-09-09,6,"Baldwin Bikes",baldwin@bikes.shop
+1397,Dewayne,Herring,dewayne.herring@aol.com,423,2016-09-06,2016-09-09,2016-09-09,7,"Baldwin Bikes",baldwin@bikes.shop
+843,Tessie,Farmer,tessie.farmer@msn.com,425,2016-09-08,2016-09-11,2016-09-11,6,"Baldwin Bikes",baldwin@bikes.shop
+944,Tonja,Henderson,tonja.henderson@aol.com,426,2016-09-08,2016-09-10,2016-09-10,6,"Baldwin Bikes",baldwin@bikes.shop
+1039,Bee,Baker,bee.baker@aol.com,428,2016-09-09,2016-09-12,2016-09-10,6,"Baldwin Bikes",baldwin@bikes.shop
+272,Deja,Chaney,deja.chaney@hotmail.com,430,2016-09-11,2016-09-13,2016-09-12,6,"Baldwin Bikes",baldwin@bikes.shop
+1217,Carlie,Terrell,carlie.terrell@yahoo.com,431,2016-09-11,2016-09-12,2016-09-12,6,"Baldwin Bikes",baldwin@bikes.shop
+1062,Jerri,Guthrie,jerri.guthrie@msn.com,433,2016-09-12,2016-09-15,2016-09-13,6,"Baldwin Bikes",baldwin@bikes.shop
+726,Rochell,Cantrell,rochell.cantrell@yahoo.com,434,2016-09-13,2016-09-15,2016-09-14,6,"Baldwin Bikes",baldwin@bikes.shop
+791,Yun,Nelson,yun.nelson@hotmail.com,436,2016-09-16,2016-09-19,2016-09-19,7,"Baldwin Bikes",baldwin@bikes.shop
+1085,Adam,Thornton,adam.thornton@hotmail.com,437,2016-09-16,2016-09-18,2016-09-18,7,"Baldwin Bikes",baldwin@bikes.shop
+149,Meredith,Bryan,meredith.bryan@hotmail.com,439,2016-09-17,2016-09-20,2016-09-18,6,"Baldwin Bikes",baldwin@bikes.shop
+882,Hilda,Harvey,hilda.harvey@gmail.com,440,2016-09-17,2016-09-18,2016-09-19,7,"Baldwin Bikes",baldwin@bikes.shop
+667,Etsuko,Garrison,etsuko.garrison@yahoo.com,442,2016-09-18,2016-09-21,2016-09-21,7,"Baldwin Bikes",baldwin@bikes.shop
+1371,Pandora,Estes,pandora.estes@aol.com,443,2016-09-18,2016-09-19,2016-09-20,6,"Baldwin Bikes",baldwin@bikes.shop
+362,Olevia,Noel,olevia.noel@yahoo.com,445,2016-09-19,2016-09-22,2016-09-22,6,"Baldwin Bikes",baldwin@bikes.shop
+399,Bart,Hess,bart.hess@aol.com,446,2016-09-19,2016-09-21,2016-09-20,7,"Baldwin Bikes",baldwin@bikes.shop
+101,Nichelle,Howell,nichelle.howell@aol.com,448,2016-09-21,2016-09-22,2016-09-24,6,"Baldwin Bikes",baldwin@bikes.shop
+492,Justa,Thompson,justa.thompson@aol.com,449,2016-09-21,2016-09-24,2016-09-22,7,"Baldwin Bikes",baldwin@bikes.shop
+575,Laurence,Christian,laurence.christian@gmail.com,450,2016-09-21,2016-09-24,2016-09-23,7,"Baldwin Bikes",baldwin@bikes.shop
+1146,Charlsie,Carson,charlsie.carson@hotmail.com,451,2016-09-21,2016-09-23,2016-09-22,7,"Baldwin Bikes",baldwin@bikes.shop
+997,Trinidad,Mcclain,trinidad.mcclain@msn.com,452,2016-09-22,2016-09-23,2016-09-24,7,"Baldwin Bikes",baldwin@bikes.shop
+1028,Shanna,Bonner,shanna.bonner@msn.com,453,2016-09-22,2016-09-24,2016-09-25,7,"Baldwin Bikes",baldwin@bikes.shop
+988,Vanda,Holmes,vanda.holmes@aol.com,454,2016-09-23,2016-09-25,2016-09-26,6,"Baldwin Bikes",baldwin@bikes.shop
+1055,Hildegarde,Christensen,hildegarde.christensen@hotmail.com,455,2016-09-23,2016-09-24,2016-09-24,7,"Baldwin Bikes",baldwin@bikes.shop
+197,Andy,O'neill,andy.o'neill@msn.com,458,2016-09-25,2016-09-28,2016-09-26,6,"Baldwin Bikes",baldwin@bikes.shop
+874,Mila,Good,mila.good@yahoo.com,459,2016-09-25,2016-09-28,2016-09-26,6,"Baldwin Bikes",baldwin@bikes.shop
+853,Brittney,Rojas,brittney.rojas@aol.com,461,2016-09-26,2016-09-27,2016-09-27,7,"Baldwin Bikes",baldwin@bikes.shop
+852,Lezlie,Thompson,lezlie.thompson@yahoo.com,462,2016-09-27,2016-09-28,2016-09-29,6,"Baldwin Bikes",baldwin@bikes.shop
+74,Georgeann,Waller,georgeann.waller@yahoo.com,464,2016-09-28,2016-09-30,2016-09-29,7,"Baldwin Bikes",baldwin@bikes.shop
+1198,Cheryll,Snyder,cheryll.snyder@yahoo.com,465,2016-09-28,2016-10-01,2016-10-01,6,"Baldwin Bikes",baldwin@bikes.shop
+1440,Ernest,Rollins,ernest.rollins@yahoo.com,466,2016-09-28,2016-09-29,2016-10-01,7,"Baldwin Bikes",baldwin@bikes.shop
+1089,Chere,Mcfadden,chere.mcfadden@yahoo.com,469,2016-09-29,2016-10-02,2016-10-02,7,"Baldwin Bikes",baldwin@bikes.shop
+468,Jeanett,Herman,jeanett.herman@hotmail.com,472,2016-09-30,2016-10-01,2016-10-01,7,"Baldwin Bikes",baldwin@bikes.shop
+549,Elmo,Arnold,elmo.arnold@aol.com,473,2016-09-30,2016-10-02,2016-10-03,7,"Baldwin Bikes",baldwin@bikes.shop
+241,Manie,Sanchez,manie.sanchez@hotmail.com,475,2016-10-01,2016-10-04,2016-10-03,7,"Baldwin Bikes",baldwin@bikes.shop
+559,Basilia,Thornton,basilia.thornton@hotmail.com,476,2016-10-01,2016-10-04,2016-10-02,6,"Baldwin Bikes",baldwin@bikes.shop
+304,Jayme,Zamora,jayme.zamora@gmail.com,478,2016-10-02,2016-10-05,2016-10-03,7,"Baldwin Bikes",baldwin@bikes.shop
+984,Ivette,Warren,ivette.warren@gmail.com,479,2016-10-03,2016-10-04,2016-10-04,6,"Baldwin Bikes",baldwin@bikes.shop
+513,Whitney,Cash,whitney.cash@gmail.com,482,2016-10-05,2016-10-06,2016-10-06,6,"Baldwin Bikes",baldwin@bikes.shop
+421,Iola,Rasmussen,iola.rasmussen@yahoo.com,484,2016-10-06,2016-10-09,2016-10-07,7,"Baldwin Bikes",baldwin@bikes.shop
+465,Birdie,Kramer,birdie.kramer@hotmail.com,485,2016-10-06,2016-10-08,2016-10-07,7,"Baldwin Bikes",baldwin@bikes.shop
+709,Vinnie,Chan,vinnie.chan@aol.com,486,2016-10-06,2016-10-08,2016-10-09,7,"Baldwin Bikes",baldwin@bikes.shop
+827,George,Pickett,george.pickett@msn.com,487,2016-10-06,2016-10-09,2016-10-09,6,"Baldwin Bikes",baldwin@bikes.shop
+921,Evelin,Vargas,evelin.vargas@msn.com,488,2016-10-06,2016-10-09,2016-10-08,6,"Baldwin Bikes",baldwin@bikes.shop
+876,Onita,Macdonald,onita.macdonald@yahoo.com,490,2016-10-07,2016-10-10,2016-10-09,6,"Baldwin Bikes",baldwin@bikes.shop
+875,Tanesha,Sawyer,tanesha.sawyer@aol.com,494,2016-10-09,2016-10-10,2016-10-11,6,"Baldwin Bikes",baldwin@bikes.shop
+193,Ayanna,Rhodes,ayanna.rhodes@msn.com,496,2016-10-10,2016-10-12,2016-10-11,6,"Baldwin Bikes",baldwin@bikes.shop
+785,Kandis,Mills,kandis.mills@hotmail.com,497,2016-10-10,2016-10-11,2016-10-11,6,"Baldwin Bikes",baldwin@bikes.shop
+1331,Divina,Reeves,divina.reeves@hotmail.com,498,2016-10-10,2016-10-12,2016-10-11,6,"Baldwin Bikes",baldwin@bikes.shop
+148,Julee,Woodard,julee.woodard@yahoo.com,500,2016-10-11,2016-10-12,2016-10-13,6,"Baldwin Bikes",baldwin@bikes.shop
+977,Barton,Cox,barton.cox@yahoo.com,501,2016-10-11,2016-10-12,2016-10-13,7,"Baldwin Bikes",baldwin@bikes.shop
+932,Yvonne,Bean,yvonne.bean@yahoo.com,503,2016-10-13,2016-10-16,2016-10-14,6,"Baldwin Bikes",baldwin@bikes.shop
+721,Erlinda,Osborne,erlinda.osborne@yahoo.com,505,2016-10-14,2016-10-16,2016-10-17,6,"Baldwin Bikes",baldwin@bikes.shop
+831,Lory,Berg,lory.berg@aol.com,506,2016-10-14,2016-10-16,2016-10-16,6,"Baldwin Bikes",baldwin@bikes.shop
+1359,Octavia,Donaldson,octavia.donaldson@hotmail.com,508,2016-10-15,2016-10-18,2016-10-18,6,"Baldwin Bikes",baldwin@bikes.shop
+235,Jeromy,Elliott,jeromy.elliott@gmail.com,509,2016-10-16,2016-10-17,2016-10-17,7,"Baldwin Bikes",baldwin@bikes.shop
+586,Ulysses,Gaines,ulysses.gaines@aol.com,510,2016-10-17,2016-10-18,2016-10-18,7,"Baldwin Bikes",baldwin@bikes.shop
+377,Klara,Mosley,klara.mosley@gmail.com,511,2016-10-18,2016-10-20,2016-10-19,7,"Baldwin Bikes",baldwin@bikes.shop
+8,Jacquline,Duncan,jacquline.duncan@yahoo.com,512,2016-10-19,2016-10-22,2016-10-20,7,"Baldwin Bikes",baldwin@bikes.shop
+155,Lory,Page,lory.page@hotmail.com,513,2016-10-19,2016-10-21,2016-10-21,6,"Baldwin Bikes",baldwin@bikes.shop
+927,Guillermo,Hart,guillermo.hart@hotmail.com,514,2016-10-19,2016-10-21,2016-10-20,7,"Baldwin Bikes",baldwin@bikes.shop
+986,Marcel,Lindsay,marcel.lindsay@hotmail.com,515,2016-10-19,2016-10-20,2016-10-22,6,"Baldwin Bikes",baldwin@bikes.shop
+111,Shila,White,shila.white@msn.com,516,2016-10-21,2016-10-23,2016-10-24,6,"Baldwin Bikes",baldwin@bikes.shop
+613,Margene,Eaton,margene.eaton@yahoo.com,517,2016-10-21,2016-10-22,2016-10-24,6,"Baldwin Bikes",baldwin@bikes.shop
+54,Fran,Yang,fran.yang@hotmail.com,519,2016-10-22,2016-10-23,2016-10-24,7,"Baldwin Bikes",baldwin@bikes.shop
+639,Ronald,Parsons,ronald.parsons@msn.com,520,2016-10-23,2016-10-26,2016-10-24,7,"Baldwin Bikes",baldwin@bikes.shop
+664,Augustus,Schmidt,augustus.schmidt@msn.com,521,2016-10-23,2016-10-25,2016-10-25,6,"Baldwin Bikes",baldwin@bikes.shop
+724,Lois,Steele,lois.steele@yahoo.com,522,2016-10-23,2016-10-24,2016-10-24,7,"Baldwin Bikes",baldwin@bikes.shop
+1056,Rebbecca,Espinoza,rebbecca.espinoza@hotmail.com,523,2016-10-24,2016-10-26,2016-10-27,6,"Baldwin Bikes",baldwin@bikes.shop
+1096,Tonda,Webb,tonda.webb@yahoo.com,526,2016-10-26,2016-10-28,2016-10-28,6,"Baldwin Bikes",baldwin@bikes.shop
+676,Gayle,Wilkinson,gayle.wilkinson@yahoo.com,528,2016-10-28,2016-10-31,2016-10-31,7,"Baldwin Bikes",baldwin@bikes.shop
+753,Mandi,Gibbs,mandi.gibbs@gmail.com,529,2016-10-28,2016-10-30,2016-10-31,7,"Baldwin Bikes",baldwin@bikes.shop
+773,Yolando,Wade,yolando.wade@hotmail.com,530,2016-10-28,2016-10-31,2016-10-31,6,"Baldwin Bikes",baldwin@bikes.shop
+817,Zelda,Pratt,zelda.pratt@gmail.com,532,2016-10-29,2016-10-31,2016-10-30,7,"Baldwin Bikes",baldwin@bikes.shop
+1334,Ashleigh,Finch,ashleigh.finch@yahoo.com,533,2016-10-29,2016-11-01,2016-11-01,6,"Baldwin Bikes",baldwin@bikes.shop
+1406,Farrah,Orr,farrah.orr@msn.com,534,2016-10-29,2016-10-30,2016-10-31,7,"Baldwin Bikes",baldwin@bikes.shop
+341,Delana,Scott,delana.scott@yahoo.com,538,2016-11-02,2016-11-05,2016-11-05,6,"Baldwin Bikes",baldwin@bikes.shop
+1144,Jewel,Sparks,jewel.sparks@aol.com,539,2016-11-02,2016-11-04,2016-11-03,7,"Baldwin Bikes",baldwin@bikes.shop
+313,Melani,Jarvis,melani.jarvis@hotmail.com,542,2016-11-04,2016-11-06,2016-11-05,7,"Baldwin Bikes",baldwin@bikes.shop
+62,Alica,Hunter,alica.hunter@hotmail.com,543,2016-11-06,2016-11-09,2016-11-08,6,"Baldwin Bikes",baldwin@bikes.shop
+321,Chere,Hardin,chere.hardin@yahoo.com,544,2016-11-06,2016-11-07,2016-11-08,7,"Baldwin Bikes",baldwin@bikes.shop
+470,Loise,Walker,loise.walker@aol.com,546,2016-11-09,2016-11-12,2016-11-10,7,"Baldwin Bikes",baldwin@bikes.shop
+739,Bobbi,Banks,bobbi.banks@yahoo.com,548,2016-11-11,2016-11-13,2016-11-13,7,"Baldwin Bikes",baldwin@bikes.shop
+892,Alissa,Craft,alissa.craft@hotmail.com,550,2016-11-12,2016-11-14,2016-11-15,7,"Baldwin Bikes",baldwin@bikes.shop
+1169,Beatris,Joyner,beatris.joyner@gmail.com,551,2016-11-12,2016-11-13,2016-11-13,6,"Baldwin Bikes",baldwin@bikes.shop
+1282,Alexis,Mack,alexis.mack@aol.com,552,2016-11-12,2016-11-15,2016-11-13,7,"Baldwin Bikes",baldwin@bikes.shop
+212,Buford,Bridges,buford.bridges@msn.com,555,2016-11-13,2016-11-14,2016-11-16,7,"Baldwin Bikes",baldwin@bikes.shop
+1248,Bethany,Herring,bethany.herring@yahoo.com,557,2016-11-14,2016-11-17,2016-11-15,6,"Baldwin Bikes",baldwin@bikes.shop
+1443,Lezlie,Lamb,lezlie.lamb@gmail.com,558,2016-11-15,2016-11-16,2016-11-17,7,"Baldwin Bikes",baldwin@bikes.shop
+1405,Thanh,Figueroa,thanh.figueroa@yahoo.com,560,2016-11-18,2016-11-19,2016-11-21,6,"Baldwin Bikes",baldwin@bikes.shop
+90,Marjorie,Logan,marjorie.logan@msn.com,561,2016-11-19,2016-11-22,2016-11-22,6,"Baldwin Bikes",baldwin@bikes.shop
+942,Davis,Long,davis.long@msn.com,562,2016-11-19,2016-11-20,2016-11-22,7,"Baldwin Bikes",baldwin@bikes.shop
+365,Rodger,Rojas,rodger.rojas@yahoo.com,563,2016-11-20,2016-11-22,2016-11-21,6,"Baldwin Bikes",baldwin@bikes.shop
+1058,Aisha,Woods,aisha.woods@gmail.com,564,2016-11-20,2016-11-23,2016-11-22,7,"Baldwin Bikes",baldwin@bikes.shop
+894,Nathaniel,Richard,nathaniel.richard@gmail.com,565,2016-11-21,2016-11-22,2016-11-22,7,"Baldwin Bikes",baldwin@bikes.shop
+707,Terese,Briggs,terese.briggs@msn.com,569,2016-11-23,2016-11-24,2016-11-25,6,"Baldwin Bikes",baldwin@bikes.shop
+989,Loreen,Byers,loreen.byers@yahoo.com,570,2016-11-23,2016-11-24,2016-11-25,6,"Baldwin Bikes",baldwin@bikes.shop
+178,Genoveva,Tyler,genoveva.tyler@gmail.com,572,2016-11-24,2016-11-26,2016-11-26,6,"Baldwin Bikes",baldwin@bikes.shop
+423,Johna,Powers,johna.powers@hotmail.com,573,2016-11-24,2016-11-26,2016-11-27,6,"Baldwin Bikes",baldwin@bikes.shop
+833,Leone,Emerson,leone.emerson@msn.com,574,2016-11-26,2016-11-27,2016-11-29,7,"Baldwin Bikes",baldwin@bikes.shop
+445,Earline,Ballard,earline.ballard@hotmail.com,577,2016-11-27,2016-11-30,2016-11-29,6,"Baldwin Bikes",baldwin@bikes.shop
+819,Yahaira,Robertson,yahaira.robertson@yahoo.com,578,2016-11-27,2016-11-28,2016-11-29,7,"Baldwin Bikes",baldwin@bikes.shop
+792,Edgar,Horn,edgar.horn@aol.com,583,2016-12-04,2016-12-05,2016-12-07,7,"Baldwin Bikes",baldwin@bikes.shop
+1209,Deandrea,Cox,deandrea.cox@msn.com,584,2016-12-04,2016-12-05,2016-12-05,7,"Baldwin Bikes",baldwin@bikes.shop
+1219,Alden,Atkinson,alden.atkinson@gmail.com,585,2016-12-04,2016-12-05,2016-12-05,7,"Baldwin Bikes",baldwin@bikes.shop
+1306,America,Swanson,america.swanson@msn.com,586,2016-12-04,2016-12-06,2016-12-05,6,"Baldwin Bikes",baldwin@bikes.shop
+102,Marisol,Goodman,marisol.goodman@gmail.com,588,2016-12-06,2016-12-07,2016-12-07,7,"Baldwin Bikes",baldwin@bikes.shop
+719,Nicki,Fry,nicki.fry@hotmail.com,589,2016-12-06,2016-12-07,2016-12-07,7,"Baldwin Bikes",baldwin@bikes.shop
+990,Casimira,Chapman,casimira.chapman@yahoo.com,590,2016-12-06,2016-12-09,2016-12-07,7,"Baldwin Bikes",baldwin@bikes.shop
+1211,Brenton,Whitaker,brenton.whitaker@gmail.com,591,2016-12-06,2016-12-09,2016-12-09,7,"Baldwin Bikes",baldwin@bikes.shop
+1232,Jong,Guthrie,jong.guthrie@hotmail.com,592,2016-12-06,2016-12-08,2016-12-08,7,"Baldwin Bikes",baldwin@bikes.shop
+1121,Shasta,Combs,shasta.combs@yahoo.com,597,2016-12-08,2016-12-09,2016-12-10,6,"Baldwin Bikes",baldwin@bikes.shop
+1,Debra,Burks,debra.burks@yahoo.com,599,2016-12-09,2016-12-10,2016-12-12,6,"Baldwin Bikes",baldwin@bikes.shop
+624,Sharika,Colon,sharika.colon@gmail.com,600,2016-12-09,2016-12-12,2016-12-11,7,"Baldwin Bikes",baldwin@bikes.shop
+683,Amparo,Burks,amparo.burks@aol.com,601,2016-12-09,2016-12-10,2016-12-10,6,"Baldwin Bikes",baldwin@bikes.shop
+823,Tina,Bush,tina.bush@aol.com,602,2016-12-09,2016-12-10,2016-12-11,6,"Baldwin Bikes",baldwin@bikes.shop
+1032,Vernon,Knowles,vernon.knowles@yahoo.com,603,2016-12-09,2016-12-10,2016-12-10,7,"Baldwin Bikes",baldwin@bikes.shop
+96,Floretta,Higgins,floretta.higgins@hotmail.com,604,2016-12-10,2016-12-13,2016-12-12,7,"Baldwin Bikes",baldwin@bikes.shop
+1208,Leila,Barr,leila.barr@yahoo.com,605,2016-12-10,2016-12-11,2016-12-12,6,"Baldwin Bikes",baldwin@bikes.shop
+18,Georgetta,Hardin,georgetta.hardin@aol.com,606,2016-12-11,2016-12-12,2016-12-13,7,"Baldwin Bikes",baldwin@bikes.shop
+309,Anderson,Martin,anderson.martin@hotmail.com,607,2016-12-11,2016-12-14,2016-12-13,6,"Baldwin Bikes",baldwin@bikes.shop
+896,Stefani,Gamble,stefani.gamble@aol.com,609,2016-12-12,2016-12-13,2016-12-14,7,"Baldwin Bikes",baldwin@bikes.shop
+711,Jovita,Bishop,jovita.bishop@aol.com,610,2016-12-13,2016-12-15,2016-12-14,6,"Baldwin Bikes",baldwin@bikes.shop
+1073,Leeanne,Cross,leeanne.cross@yahoo.com,611,2016-12-15,2016-12-17,2016-12-18,7,"Baldwin Bikes",baldwin@bikes.shop
+634,Taylor,Cole,taylor.cole@gmail.com,612,2016-12-16,2016-12-17,2016-12-17,7,"Baldwin Bikes",baldwin@bikes.shop
+1159,Charlene,Norris,charlene.norris@msn.com,613,2016-12-17,2016-12-19,2016-12-19,7,"Baldwin Bikes",baldwin@bikes.shop
+1444,Ivette,Estes,ivette.estes@gmail.com,616,2016-12-20,2016-12-23,2016-12-23,6,"Baldwin Bikes",baldwin@bikes.shop
+118,Le,Wood,le.wood@yahoo.com,617,2016-12-21,2016-12-23,2016-12-23,7,"Baldwin Bikes",baldwin@bikes.shop
+131,Tanesha,Hampton,tanesha.hampton@hotmail.com,618,2016-12-21,2016-12-22,2016-12-22,6,"Baldwin Bikes",baldwin@bikes.shop
+454,Terese,Palmer,terese.palmer@hotmail.com,619,2016-12-22,2016-12-25,2016-12-25,7,"Baldwin Bikes",baldwin@bikes.shop
+466,Collen,Hayes,collen.hayes@yahoo.com,620,2016-12-22,2016-12-24,2016-12-24,6,"Baldwin Bikes",baldwin@bikes.shop
+1157,Anton,Barton,anton.barton@msn.com,621,2016-12-23,2016-12-25,2016-12-24,6,"Baldwin Bikes",baldwin@bikes.shop
+1398,Nevada,Hood,nevada.hood@aol.com,622,2016-12-23,2016-12-26,2016-12-25,7,"Baldwin Bikes",baldwin@bikes.shop
+678,Myron,Johns,myron.johns@msn.com,623,2016-12-24,2016-12-26,2016-12-27,6,"Baldwin Bikes",baldwin@bikes.shop
+814,Ghislaine,Compton,ghislaine.compton@aol.com,624,2016-12-24,2016-12-25,2016-12-27,6,"Baldwin Bikes",baldwin@bikes.shop
+130,Wes,Stanton,wes.stanton@msn.com,626,2016-12-25,2016-12-28,2016-12-27,7,"Baldwin Bikes",baldwin@bikes.shop
+1119,Tora,Dunlap,tora.dunlap@hotmail.com,627,2016-12-25,2016-12-26,2016-12-28,6,"Baldwin Bikes",baldwin@bikes.shop
+1404,Loyce,Conway,loyce.conway@aol.com,630,2016-12-26,2016-12-27,2016-12-28,6,"Baldwin Bikes",baldwin@bikes.shop
+163,Margert,Stevens,margert.stevens@aol.com,632,2016-12-27,2016-12-29,2016-12-29,7,"Baldwin Bikes",baldwin@bikes.shop
+27,Santos,Valencia,santos.valencia@yahoo.com,634,2016-12-29,2017-01-01,2016-12-30,6,"Baldwin Bikes",baldwin@bikes.shop
+520,Andreas,Herman,andreas.herman@msn.com,635,2016-12-30,2017-01-02,2016-12-31,6,"Baldwin Bikes",baldwin@bikes.shop
+512,Hee,Greer,hee.greer@hotmail.com,637,2017-01-03,2017-01-05,2017-01-05,6,"Baldwin Bikes",baldwin@bikes.shop
+1302,Verda,Gilbert,verda.gilbert@gmail.com,638,2017-01-04,2017-01-05,2017-01-06,7,"Baldwin Bikes",baldwin@bikes.shop
+550,Felicidad,Golden,felicidad.golden@yahoo.com,639,2017-01-06,2017-01-07,2017-01-07,6,"Baldwin Bikes",baldwin@bikes.shop
+1093,Alejandrina,Hodges,alejandrina.hodges@msn.com,640,2017-01-06,2017-01-08,2017-01-07,6,"Baldwin Bikes",baldwin@bikes.shop
+847,Lizette,Ellison,lizette.ellison@hotmail.com,642,2017-01-07,2017-01-09,2017-01-10,7,"Baldwin Bikes",baldwin@bikes.shop
+439,Sunshine,Rosario,sunshine.rosario@aol.com,644,2017-01-08,2017-01-11,2017-01-10,6,"Baldwin Bikes",baldwin@bikes.shop
+1199,Consuela,Collier,consuela.collier@msn.com,645,2017-01-08,2017-01-11,2017-01-10,6,"Baldwin Bikes",baldwin@bikes.shop
+283,Jaimee,Day,jaimee.day@aol.com,647,2017-01-09,2017-01-10,2017-01-11,7,"Baldwin Bikes",baldwin@bikes.shop
+684,Jenny,Bell,jenny.bell@hotmail.com,648,2017-01-09,2017-01-11,2017-01-11,6,"Baldwin Bikes",baldwin@bikes.shop
+190,Toya,Pratt,toya.pratt@yahoo.com,651,2017-01-11,2017-01-13,2017-01-13,7,"Baldwin Bikes",baldwin@bikes.shop
+1129,Gilberto,Sanders,gilberto.sanders@hotmail.com,654,2017-01-14,2017-01-15,2017-01-17,7,"Baldwin Bikes",baldwin@bikes.shop
+949,Venessa,Frost,venessa.frost@msn.com,656,2017-01-16,2017-01-17,2017-01-18,7,"Baldwin Bikes",baldwin@bikes.shop
+1051,Tonisha,Fowler,tonisha.fowler@msn.com,658,2017-01-17,2017-01-18,2017-01-18,7,"Baldwin Bikes",baldwin@bikes.shop
+1391,Sheryl,Chase,sheryl.chase@gmail.com,659,2017-01-17,2017-01-19,2017-01-18,7,"Baldwin Bikes",baldwin@bikes.shop
+383,Ashlee,Pena,ashlee.pena@aol.com,660,2017-01-18,2017-01-19,2017-01-19,7,"Baldwin Bikes",baldwin@bikes.shop
+626,Leigh,Burke,leigh.burke@hotmail.com,661,2017-01-18,2017-01-19,2017-01-20,6,"Baldwin Bikes",baldwin@bikes.shop
+681,Reatha,Perez,reatha.perez@aol.com,664,2017-01-20,2017-01-23,2017-01-22,7,"Baldwin Bikes",baldwin@bikes.shop
+29,Syreeta,Hendricks,syreeta.hendricks@msn.com,665,2017-01-21,2017-01-22,2017-01-23,6,"Baldwin Bikes",baldwin@bikes.shop
+770,Lavonda,Stephenson,lavonda.stephenson@gmail.com,666,2017-01-21,2017-01-22,2017-01-24,7,"Baldwin Bikes",baldwin@bikes.shop
+858,Klara,Kim,klara.kim@gmail.com,667,2017-01-22,2017-01-24,2017-01-25,7,"Baldwin Bikes",baldwin@bikes.shop
+745,Carolyne,Conley,carolyne.conley@gmail.com,669,2017-01-23,2017-01-24,2017-01-26,7,"Baldwin Bikes",baldwin@bikes.shop
+361,Virgina,Berg,virgina.berg@yahoo.com,670,2017-01-24,2017-01-25,2017-01-25,6,"Baldwin Bikes",baldwin@bikes.shop
+922,Elvia,Cardenas,elvia.cardenas@hotmail.com,671,2017-01-25,2017-01-28,2017-01-26,7,"Baldwin Bikes",baldwin@bikes.shop
+908,Delmar,Wise,delmar.wise@yahoo.com,672,2017-01-26,2017-01-29,2017-01-29,6,"Baldwin Bikes",baldwin@bikes.shop
+733,Doreatha,Ford,doreatha.ford@yahoo.com,674,2017-01-27,2017-01-28,2017-01-29,6,"Baldwin Bikes",baldwin@bikes.shop
+291,Boyce,Burks,boyce.burks@gmail.com,675,2017-01-28,2017-01-31,2017-01-30,7,"Baldwin Bikes",baldwin@bikes.shop
+790,Petronila,Gallegos,petronila.gallegos@gmail.com,676,2017-01-28,2017-01-30,2017-01-31,7,"Baldwin Bikes",baldwin@bikes.shop
+809,Elnora,Simpson,elnora.simpson@yahoo.com,677,2017-01-28,2017-01-31,2017-01-30,7,"Baldwin Bikes",baldwin@bikes.shop
+499,Lidia,Ashley,lidia.ashley@hotmail.com,681,2017-01-29,2017-02-01,2017-01-31,7,"Baldwin Bikes",baldwin@bikes.shop
+614,Toshia,Cardenas,toshia.cardenas@gmail.com,682,2017-01-29,2017-01-30,2017-01-30,6,"Baldwin Bikes",baldwin@bikes.shop
+741,Laci,Castro,laci.castro@hotmail.com,683,2017-01-29,2017-01-31,2017-02-01,6,"Baldwin Bikes",baldwin@bikes.shop
+762,Quyen,Houston,quyen.houston@gmail.com,684,2017-01-31,2017-02-01,2017-02-02,6,"Baldwin Bikes",baldwin@bikes.shop
+976,Ayanna,Cherry,ayanna.cherry@yahoo.com,685,2017-01-31,2017-02-03,2017-02-02,7,"Baldwin Bikes",baldwin@bikes.shop
+380,Alesia,Horne,alesia.horne@aol.com,686,2017-02-01,2017-02-03,2017-02-04,7,"Baldwin Bikes",baldwin@bikes.shop
+343,Jesica,Fields,jesica.fields@yahoo.com,688,2017-02-02,2017-02-03,2017-02-05,7,"Baldwin Bikes",baldwin@bikes.shop
+884,Willian,Hardin,willian.hardin@msn.com,689,2017-02-02,2017-02-03,2017-02-05,7,"Baldwin Bikes",baldwin@bikes.shop
+1081,Carson,Macias,carson.macias@gmail.com,691,2017-02-04,2017-02-06,2017-02-06,7,"Baldwin Bikes",baldwin@bikes.shop
+58,Damien,Dorsey,damien.dorsey@yahoo.com,694,2017-02-05,2017-02-06,2017-02-08,7,"Baldwin Bikes",baldwin@bikes.shop
+606,Sarah,Kirkland,sarah.kirkland@aol.com,695,2017-02-05,2017-02-08,2017-02-07,7,"Baldwin Bikes",baldwin@bikes.shop
+1242,Chauncey,Donaldson,chauncey.donaldson@aol.com,696,2017-02-05,2017-02-08,2017-02-08,7,"Baldwin Bikes",baldwin@bikes.shop
+4,Daryl,Spence,daryl.spence@aol.com,700,2017-02-07,2017-02-10,2017-02-08,6,"Baldwin Bikes",baldwin@bikes.shop
+417,Zoraida,Patton,zoraida.patton@aol.com,703,2017-02-08,2017-02-09,2017-02-09,7,"Baldwin Bikes",baldwin@bikes.shop
+1137,Dottie,Roberts,dottie.roberts@aol.com,704,2017-02-08,2017-02-09,2017-02-11,6,"Baldwin Bikes",baldwin@bikes.shop
+1196,Ileana,Holt,ileana.holt@msn.com,705,2017-02-08,2017-02-11,2017-02-11,7,"Baldwin Bikes",baldwin@bikes.shop
+79,Ashanti,Parks,ashanti.parks@hotmail.com,707,2017-02-09,2017-02-11,2017-02-11,7,"Baldwin Bikes",baldwin@bikes.shop
+1162,Carmelina,Sellers,carmelina.sellers@hotmail.com,709,2017-02-11,2017-02-13,2017-02-12,6,"Baldwin Bikes",baldwin@bikes.shop
+295,Danny,Kim,danny.kim@msn.com,710,2017-02-13,2017-02-15,2017-02-16,6,"Baldwin Bikes",baldwin@bikes.shop
+1246,Dale,Rasmussen,dale.rasmussen@aol.com,711,2017-02-13,2017-02-16,2017-02-14,6,"Baldwin Bikes",baldwin@bikes.shop
+805,Phillis,Fowler,phillis.fowler@aol.com,714,2017-02-14,2017-02-17,2017-02-15,7,"Baldwin Bikes",baldwin@bikes.shop
+12,Robby,Sykes,robby.sykes@hotmail.com,715,2017-02-15,2017-02-15,NULL,6,"Baldwin Bikes",baldwin@bikes.shop
+672,Elma,Molina,elma.molina@msn.com,716,2017-02-15,2017-02-17,2017-02-18,6,"Baldwin Bikes",baldwin@bikes.shop
+1312,Tereasa,Bird,tereasa.bird@aol.com,717,2017-02-15,2017-02-18,2017-02-17,6,"Baldwin Bikes",baldwin@bikes.shop
+38,Zelma,Browning,zelma.browning@aol.com,718,2017-02-16,2017-02-17,2017-02-17,7,"Baldwin Bikes",baldwin@bikes.shop
+200,Ashely,Holmes,ashely.holmes@aol.com,719,2017-02-16,2017-02-19,2017-02-18,6,"Baldwin Bikes",baldwin@bikes.shop
+382,Collin,Webster,collin.webster@aol.com,720,2017-02-16,2017-02-19,2017-02-19,6,"Baldwin Bikes",baldwin@bikes.shop
+625,Donnetta,Henson,donnetta.henson@hotmail.com,721,2017-02-16,2017-02-19,2017-02-17,7,"Baldwin Bikes",baldwin@bikes.shop
+1399,Angelika,Perry,angelika.perry@msn.com,722,2017-02-18,2017-02-20,2017-02-21,7,"Baldwin Bikes",baldwin@bikes.shop
+845,Kathyrn,Bush,kathyrn.bush@gmail.com,723,2017-02-19,2017-02-21,2017-02-22,6,"Baldwin Bikes",baldwin@bikes.shop
+864,Lore,Sykes,lore.sykes@aol.com,724,2017-02-19,2017-02-22,2017-02-21,6,"Baldwin Bikes",baldwin@bikes.shop
+870,Dwain,Carlson,dwain.carlson@gmail.com,725,2017-02-19,2017-02-22,2017-02-22,7,"Baldwin Bikes",baldwin@bikes.shop
+969,Jennell,Solis,jennell.solis@hotmail.com,726,2017-02-19,2017-02-22,2017-02-20,6,"Baldwin Bikes",baldwin@bikes.shop
+897,Bettyann,Acosta,bettyann.acosta@gmail.com,729,2017-02-20,2017-02-22,2017-02-21,7,"Baldwin Bikes",baldwin@bikes.shop
+500,Moira,Lester,moira.lester@msn.com,730,2017-02-21,2017-02-24,2017-02-22,6,"Baldwin Bikes",baldwin@bikes.shop
+147,Bernetta,Marquez,bernetta.marquez@hotmail.com,732,2017-02-26,2017-02-27,2017-03-01,7,"Baldwin Bikes",baldwin@bikes.shop
+832,Pamala,Fowler,pamala.fowler@gmail.com,733,2017-02-26,2017-03-01,2017-02-27,7,"Baldwin Bikes",baldwin@bikes.shop
+184,Klara,Stanley,klara.stanley@aol.com,736,2017-02-27,2017-02-28,2017-02-28,7,"Baldwin Bikes",baldwin@bikes.shop
+694,Lanie,Dunn,lanie.dunn@gmail.com,737,2017-02-27,2017-03-01,2017-02-28,6,"Baldwin Bikes",baldwin@bikes.shop
+49,Caroll,Hays,caroll.hays@yahoo.com,739,2017-02-28,2017-03-01,2017-03-02,6,"Baldwin Bikes",baldwin@bikes.shop
+1113,Kendra,Harrington,kendra.harrington@yahoo.com,740,2017-02-28,2017-03-01,2017-03-02,6,"Baldwin Bikes",baldwin@bikes.shop
+137,Shonta,Mercer,shonta.mercer@aol.com,743,2017-03-01,2017-03-04,2017-03-04,6,"Baldwin Bikes",baldwin@bikes.shop
+166,Lena,Mills,lena.mills@yahoo.com,744,2017-03-01,2017-03-02,2017-03-02,7,"Baldwin Bikes",baldwin@bikes.shop
+698,Charleen,Joyner,charleen.joyner@aol.com,745,2017-03-01,2017-03-03,2017-03-03,7,"Baldwin Bikes",baldwin@bikes.shop
+255,Flossie,Holder,flossie.holder@msn.com,749,2017-03-04,2017-03-07,2017-03-05,7,"Baldwin Bikes",baldwin@bikes.shop
+335,Scarlet,Reed,scarlet.reed@hotmail.com,752,2017-03-05,2017-03-06,2017-03-07,6,"Baldwin Bikes",baldwin@bikes.shop
+1201,Nita,Guy,nita.guy@hotmail.com,753,2017-03-05,2017-03-08,2017-03-08,7,"Baldwin Bikes",baldwin@bikes.shop
+531,Kimberely,Bowen,kimberely.bowen@hotmail.com,755,2017-03-06,2017-03-07,2017-03-07,6,"Baldwin Bikes",baldwin@bikes.shop
+1143,Sommer,Hopkins,sommer.hopkins@gmail.com,756,2017-03-06,2017-03-07,2017-03-09,6,"Baldwin Bikes",baldwin@bikes.shop
+1336,Joe,Melton,joe.melton@gmail.com,757,2017-03-06,2017-03-08,2017-03-09,7,"Baldwin Bikes",baldwin@bikes.shop
+284,Susann,Bass,susann.bass@msn.com,759,2017-03-07,2017-03-09,2017-03-08,7,"Baldwin Bikes",baldwin@bikes.shop
+1104,Khalilah,Robertson,khalilah.robertson@aol.com,760,2017-03-07,2017-03-10,2017-03-10,6,"Baldwin Bikes",baldwin@bikes.shop
+1291,Shiloh,Bates,shiloh.bates@msn.com,761,2017-03-07,2017-03-08,2017-03-10,7,"Baldwin Bikes",baldwin@bikes.shop
+572,Wm,Pope,wm.pope@msn.com,762,2017-03-08,2017-03-09,2017-03-09,6,"Baldwin Bikes",baldwin@bikes.shop
+141,Ramiro,Byers,ramiro.byers@gmail.com,766,2017-03-09,2017-03-11,2017-03-12,6,"Baldwin Bikes",baldwin@bikes.shop
+564,Bettie,Pierce,bettie.pierce@gmail.com,767,2017-03-09,2017-03-10,2017-03-11,7,"Baldwin Bikes",baldwin@bikes.shop
+841,Manie,Maxwell,manie.maxwell@gmail.com,768,2017-03-09,2017-03-12,2017-03-10,7,"Baldwin Bikes",baldwin@bikes.shop
+946,Angella,Bridges,angella.bridges@yahoo.com,769,2017-03-09,2017-03-11,2017-03-11,6,"Baldwin Bikes",baldwin@bikes.shop
+448,Janella,Bright,janella.bright@aol.com,772,2017-03-11,2017-03-12,2017-03-13,7,"Baldwin Bikes",baldwin@bikes.shop
+1385,Kenton,Hughes,kenton.hughes@gmail.com,773,2017-03-11,2017-03-12,2017-03-12,6,"Baldwin Bikes",baldwin@bikes.shop
+690,Yevette,Elliott,yevette.elliott@aol.com,774,2017-03-12,2017-03-14,2017-03-14,6,"Baldwin Bikes",baldwin@bikes.shop
+968,Jonna,Brown,jonna.brown@aol.com,775,2017-03-12,2017-03-13,2017-03-13,6,"Baldwin Bikes",baldwin@bikes.shop
+490,Yu,Mcdonald,yu.mcdonald@aol.com,776,2017-03-13,2017-03-15,2017-03-16,6,"Baldwin Bikes",baldwin@bikes.shop
+496,Shu,Mays,shu.mays@gmail.com,777,2017-03-13,2017-03-16,2017-03-16,6,"Baldwin Bikes",baldwin@bikes.shop
+367,Blanca,Hooper,blanca.hooper@msn.com,779,2017-03-15,2017-03-16,2017-03-18,6,"Baldwin Bikes",baldwin@bikes.shop
+592,Joni,Lee,joni.lee@gmail.com,780,2017-03-15,2017-03-17,2017-03-17,6,"Baldwin Bikes",baldwin@bikes.shop
+1018,Carita,Salinas,carita.salinas@yahoo.com,781,2017-03-15,2017-03-16,2017-03-17,6,"Baldwin Bikes",baldwin@bikes.shop
+1298,Trudy,Riddle,trudy.riddle@aol.com,782,2017-03-15,2017-03-16,2017-03-18,7,"Baldwin Bikes",baldwin@bikes.shop
+430,Kandi,Mcneil,kandi.mcneil@msn.com,784,2017-03-16,2017-03-19,2017-03-19,7,"Baldwin Bikes",baldwin@bikes.shop
+249,Magda,Eaton,magda.eaton@aol.com,786,2017-03-18,2017-03-20,2017-03-19,6,"Baldwin Bikes",baldwin@bikes.shop
+772,Latricia,Lindsey,latricia.lindsey@hotmail.com,789,2017-03-19,2017-03-20,2017-03-20,6,"Baldwin Bikes",baldwin@bikes.shop
+1015,Nichelle,Rosario,nichelle.rosario@hotmail.com,790,2017-03-19,2017-03-21,2017-03-22,7,"Baldwin Bikes",baldwin@bikes.shop
+432,Julius,Holt,julius.holt@aol.com,791,2017-03-20,2017-03-22,2017-03-23,6,"Baldwin Bikes",baldwin@bikes.shop
+479,Gertha,Mejia,gertha.mejia@yahoo.com,792,2017-03-22,2017-03-23,2017-03-24,6,"Baldwin Bikes",baldwin@bikes.shop
+653,Florencio,Davenport,florencio.davenport@yahoo.com,793,2017-03-23,2017-03-24,2017-03-24,6,"Baldwin Bikes",baldwin@bikes.shop
+863,Shonta,Preston,shonta.preston@msn.com,794,2017-03-23,2017-03-25,2017-03-24,7,"Baldwin Bikes",baldwin@bikes.shop
+992,Chere,Alston,chere.alston@gmail.com,795,2017-03-23,2017-03-25,2017-03-26,7,"Baldwin Bikes",baldwin@bikes.shop
+374,Candelaria,Coffey,candelaria.coffey@aol.com,797,2017-03-24,2017-03-26,2017-03-26,7,"Baldwin Bikes",baldwin@bikes.shop
+1057,Conchita,Boone,conchita.boone@gmail.com,800,2017-03-27,2017-03-29,2017-03-28,6,"Baldwin Bikes",baldwin@bikes.shop
+340,Yanira,Bradshaw,yanira.bradshaw@gmail.com,802,2017-03-28,2017-03-29,2017-03-30,6,"Baldwin Bikes",baldwin@bikes.shop
+95,Letitia,Franco,letitia.franco@aol.com,804,2017-03-29,2017-03-31,2017-03-30,6,"Baldwin Bikes",baldwin@bikes.shop
+420,Vince,Schneider,vince.schneider@hotmail.com,805,2017-03-29,2017-03-30,2017-04-01,6,"Baldwin Bikes",baldwin@bikes.shop
+234,Winfred,Harris,winfred.harris@msn.com,806,2017-03-30,2017-03-31,2017-03-31,7,"Baldwin Bikes",baldwin@bikes.shop
+1148,Lenore,Valdez,lenore.valdez@msn.com,807,2017-03-30,2017-04-01,2017-04-02,6,"Baldwin Bikes",baldwin@bikes.shop
+315,Justina,Jenkins,justina.jenkins@yahoo.com,808,2017-03-31,2017-04-02,2017-04-02,6,"Baldwin Bikes",baldwin@bikes.shop
+1222,Geraldine,O'donnell,geraldine.o'donnell@hotmail.com,809,2017-03-31,2017-04-03,2017-04-03,7,"Baldwin Bikes",baldwin@bikes.shop
+524,Larraine,Horn,larraine.horn@msn.com,811,2017-04-01,2017-04-04,2017-04-04,7,"Baldwin Bikes",baldwin@bikes.shop
+1164,Patrina,Tanner,patrina.tanner@gmail.com,812,2017-04-01,2017-04-02,2017-04-03,7,"Baldwin Bikes",baldwin@bikes.shop
+629,Evelina,Byrd,evelina.byrd@msn.com,814,2017-04-02,2017-04-05,2017-04-03,7,"Baldwin Bikes",baldwin@bikes.shop
+811,Shanti,Johnston,shanti.johnston@gmail.com,816,2017-04-03,2017-04-05,2017-04-05,6,"Baldwin Bikes",baldwin@bikes.shop
+301,Annett,Garrett,annett.garrett@yahoo.com,817,2017-04-04,2017-04-05,2017-04-07,7,"Baldwin Bikes",baldwin@bikes.shop
+1319,Claris,Santiago,claris.santiago@msn.com,818,2017-04-04,2017-04-07,2017-04-07,6,"Baldwin Bikes",baldwin@bikes.shop
+725,Carola,Mcpherson,carola.mcpherson@hotmail.com,820,2017-04-05,2017-04-08,2017-04-07,7,"Baldwin Bikes",baldwin@bikes.shop
+1181,Agustina,Lawrence,agustina.lawrence@yahoo.com,821,2017-04-05,2017-04-07,2017-04-08,7,"Baldwin Bikes",baldwin@bikes.shop
+294,Clementina,Sargent,clementina.sargent@hotmail.com,822,2017-04-06,2017-04-08,2017-04-09,7,"Baldwin Bikes",baldwin@bikes.shop
+10,Pamelia,Newman,pamelia.newman@gmail.com,825,2017-04-07,2017-04-08,2017-04-09,7,"Baldwin Bikes",baldwin@bikes.shop
+45,Bennett,Armstrong,bennett.armstrong@aol.com,826,2017-04-07,2017-04-10,2017-04-10,6,"Baldwin Bikes",baldwin@bikes.shop
+666,Brittni,Green,brittni.green@msn.com,827,2017-04-07,2017-04-10,2017-04-10,7,"Baldwin Bikes",baldwin@bikes.shop
+246,Dionne,Norris,dionne.norris@yahoo.com,828,2017-04-09,2017-04-10,2017-04-12,6,"Baldwin Bikes",baldwin@bikes.shop
+674,Ira,Moore,ira.moore@gmail.com,829,2017-04-09,2017-04-10,2017-04-10,7,"Baldwin Bikes",baldwin@bikes.shop
+431,Luciano,Marsh,luciano.marsh@aol.com,830,2017-04-11,2017-04-14,2017-04-12,6,"Baldwin Bikes",baldwin@bikes.shop
+1000,Shiloh,Reeves,shiloh.reeves@msn.com,831,2017-04-11,2017-04-12,2017-04-12,7,"Baldwin Bikes",baldwin@bikes.shop
+1215,Karl,Stephens,karl.stephens@gmail.com,832,2017-04-11,2017-04-12,2017-04-12,7,"Baldwin Bikes",baldwin@bikes.shop
+406,Kerrie,O'neill,kerrie.o'neill@gmail.com,833,2017-04-12,2017-04-14,2017-04-15,7,"Baldwin Bikes",baldwin@bikes.shop
+890,Rosanne,George,rosanne.george@yahoo.com,834,2017-04-12,2017-04-13,2017-04-15,6,"Baldwin Bikes",baldwin@bikes.shop
+455,Sherita,Cherry,sherita.cherry@gmail.com,836,2017-04-13,2017-04-16,2017-04-14,6,"Baldwin Bikes",baldwin@bikes.shop
+948,Siobhan,Lang,siobhan.lang@gmail.com,837,2017-04-13,2017-04-16,2017-04-14,7,"Baldwin Bikes",baldwin@bikes.shop
+1395,Eliseo,Knight,eliseo.knight@msn.com,838,2017-04-14,2017-04-17,2017-04-15,7,"Baldwin Bikes",baldwin@bikes.shop
+372,Collene,Roman,collene.roman@aol.com,840,2017-04-15,2017-04-16,2017-04-16,6,"Baldwin Bikes",baldwin@bikes.shop
+428,Hipolito,Padilla,hipolito.padilla@hotmail.com,841,2017-04-15,2017-04-18,2017-04-17,7,"Baldwin Bikes",baldwin@bikes.shop
+1133,Dung,King,dung.king@aol.com,842,2017-04-15,2017-04-18,2017-04-16,6,"Baldwin Bikes",baldwin@bikes.shop
+1059,Season,Harvey,season.harvey@yahoo.com,843,2017-04-16,2017-04-17,2017-04-19,7,"Baldwin Bikes",baldwin@bikes.shop
+1436,Macie,Ayers,macie.ayers@msn.com,844,2017-04-16,2017-04-17,2017-04-18,6,"Baldwin Bikes",baldwin@bikes.shop
+662,Loraine,Sykes,loraine.sykes@yahoo.com,845,2017-04-17,2017-04-18,2017-04-18,7,"Baldwin Bikes",baldwin@bikes.shop
+715,Larae,Carney,larae.carney@msn.com,846,2017-04-17,2017-04-19,2017-04-19,6,"Baldwin Bikes",baldwin@bikes.shop
+329,Marilyn,Frank,marilyn.frank@aol.com,847,2017-04-18,2017-04-19,2017-04-19,7,"Baldwin Bikes",baldwin@bikes.shop
+597,Rudolf,Moran,rudolf.moran@gmail.com,848,2017-04-18,2017-04-20,2017-04-20,7,"Baldwin Bikes",baldwin@bikes.shop
+1139,Gabriella,Jones,gabriella.jones@hotmail.com,851,2017-04-20,2017-04-21,2017-04-22,6,"Baldwin Bikes",baldwin@bikes.shop
+177,Carissa,Foreman,carissa.foreman@msn.com,854,2017-04-22,2017-04-25,2017-04-23,6,"Baldwin Bikes",baldwin@bikes.shop
+775,Kermit,Hyde,kermit.hyde@hotmail.com,855,2017-04-22,2017-04-23,2017-04-25,6,"Baldwin Bikes",baldwin@bikes.shop
+477,Arminda,Weber,arminda.weber@yahoo.com,856,2017-04-23,2017-04-25,2017-04-26,6,"Baldwin Bikes",baldwin@bikes.shop
+1402,Sandee,Alvarado,sandee.alvarado@aol.com,857,2017-04-24,2017-04-25,2017-04-26,7,"Baldwin Bikes",baldwin@bikes.shop
+162,Kam,Wilder,kam.wilder@hotmail.com,858,2017-04-25,2017-04-27,2017-04-28,6,"Baldwin Bikes",baldwin@bikes.shop
+644,Valentin,Mclaughlin,valentin.mclaughlin@hotmail.com,859,2017-04-25,2017-04-26,2017-04-26,6,"Baldwin Bikes",baldwin@bikes.shop
+473,Lashawna,Richardson,lashawna.richardson@hotmail.com,860,2017-04-27,2017-04-29,2017-04-28,7,"Baldwin Bikes",baldwin@bikes.shop
+1177,Charlesetta,Soto,charlesetta.soto@yahoo.com,861,2017-04-27,2017-04-29,2017-04-30,7,"Baldwin Bikes",baldwin@bikes.shop
+446,Nathanael,Bradley,nathanael.bradley@aol.com,863,2017-04-28,2017-04-30,2017-05-01,7,"Baldwin Bikes",baldwin@bikes.shop
+902,Elease,Dejesus,elease.dejesus@gmail.com,864,2017-04-28,2017-04-30,2017-04-29,6,"Baldwin Bikes",baldwin@bikes.shop
+974,Marcell,Barrett,marcell.barrett@gmail.com,865,2017-04-29,2017-05-02,2017-05-01,6,"Baldwin Bikes",baldwin@bikes.shop
+1410,Lurlene,Finch,lurlene.finch@msn.com,866,2017-04-29,2017-04-30,2017-05-01,6,"Baldwin Bikes",baldwin@bikes.shop
+844,Felica,Munoz,felica.munoz@aol.com,869,2017-05-01,2017-05-04,2017-05-02,7,"Baldwin Bikes",baldwin@bikes.shop
+1416,Miranda,Kennedy,miranda.kennedy@gmail.com,870,2017-05-01,2017-05-04,2017-05-02,6,"Baldwin Bikes",baldwin@bikes.shop
+358,Kandace,Giles,kandace.giles@msn.com,871,2017-05-02,2017-05-04,2017-05-03,7,"Baldwin Bikes",baldwin@bikes.shop
+829,Marcy,Rodriguez,marcy.rodriguez@gmail.com,873,2017-05-03,2017-05-05,2017-05-05,7,"Baldwin Bikes",baldwin@bikes.shop
+661,Trena,Hudson,trena.hudson@hotmail.com,874,2017-05-04,2017-05-05,2017-05-06,7,"Baldwin Bikes",baldwin@bikes.shop
+1046,Dane,Mcdaniel,dane.mcdaniel@hotmail.com,876,2017-05-05,2017-05-08,2017-05-06,7,"Baldwin Bikes",baldwin@bikes.shop
+784,Debbra,Jacobson,debbra.jacobson@yahoo.com,877,2017-05-06,2017-05-07,2017-05-08,6,"Baldwin Bikes",baldwin@bikes.shop
+214,Ross,Pugh,ross.pugh@msn.com,879,2017-05-08,2017-05-09,2017-05-09,7,"Baldwin Bikes",baldwin@bikes.shop
+1206,Mercy,Brown,mercy.brown@msn.com,880,2017-05-08,2017-05-11,2017-05-10,6,"Baldwin Bikes",baldwin@bikes.shop
+196,Edythe,Valencia,edythe.valencia@yahoo.com,882,2017-05-09,2017-05-12,2017-05-10,6,"Baldwin Bikes",baldwin@bikes.shop
+507,Sheree,Pena,sheree.pena@yahoo.com,883,2017-05-11,2017-05-13,2017-05-14,6,"Baldwin Bikes",baldwin@bikes.shop
+871,Erlinda,Humphrey,erlinda.humphrey@hotmail.com,884,2017-05-11,2017-05-13,2017-05-12,7,"Baldwin Bikes",baldwin@bikes.shop
+1195,Chantell,Bridges,chantell.bridges@yahoo.com,887,2017-05-13,2017-05-15,2017-05-15,6,"Baldwin Bikes",baldwin@bikes.shop
+1038,Garry,Juarez,garry.juarez@hotmail.com,888,2017-05-14,2017-05-16,2017-05-16,7,"Baldwin Bikes",baldwin@bikes.shop
+171,Miriam,Baker,miriam.baker@hotmail.com,890,2017-05-15,2017-05-18,2017-05-18,6,"Baldwin Bikes",baldwin@bikes.shop
+384,Aimee,Merritt,aimee.merritt@yahoo.com,891,2017-05-15,2017-05-18,2017-05-16,6,"Baldwin Bikes",baldwin@bikes.shop
+651,Laure,Pena,laure.pena@yahoo.com,892,2017-05-15,2017-05-18,2017-05-17,7,"Baldwin Bikes",baldwin@bikes.shop
+1293,Sally,Kinney,sally.kinney@msn.com,893,2017-05-16,2017-05-19,2017-05-19,7,"Baldwin Bikes",baldwin@bikes.shop
+1320,Obdulia,Barber,obdulia.barber@gmail.com,894,2017-05-16,2017-05-19,2017-05-19,6,"Baldwin Bikes",baldwin@bikes.shop
+857,Inga,Koch,inga.koch@msn.com,895,2017-05-18,2017-05-21,2017-05-19,6,"Baldwin Bikes",baldwin@bikes.shop
+352,Josef,Greer,josef.greer@gmail.com,898,2017-05-20,2017-05-21,2017-05-22,6,"Baldwin Bikes",baldwin@bikes.shop
+605,Renita,Henry,renita.henry@msn.com,899,2017-05-20,2017-05-21,2017-05-21,7,"Baldwin Bikes",baldwin@bikes.shop
+971,Samual,Warner,samual.warner@gmail.com,900,2017-05-20,2017-05-21,2017-05-22,6,"Baldwin Bikes",baldwin@bikes.shop
+345,Mi,Gray,mi.gray@aol.com,901,2017-05-21,2017-05-22,2017-05-24,7,"Baldwin Bikes",baldwin@bikes.shop
+1278,Loan,Graham,loan.graham@yahoo.com,902,2017-05-21,2017-05-24,2017-05-22,6,"Baldwin Bikes",baldwin@bikes.shop
+179,Deane,Sears,deane.sears@hotmail.com,903,2017-05-22,2017-05-23,2017-05-24,7,"Baldwin Bikes",baldwin@bikes.shop
+609,Eliana,Reese,eliana.reese@hotmail.com,905,2017-05-23,2017-05-26,2017-05-24,6,"Baldwin Bikes",baldwin@bikes.shop
+877,Janine,Manning,janine.manning@gmail.com,906,2017-05-23,2017-05-26,2017-05-26,7,"Baldwin Bikes",baldwin@bikes.shop
+402,Kerrie,Morton,kerrie.morton@hotmail.com,908,2017-05-25,2017-05-28,2017-05-27,7,"Baldwin Bikes",baldwin@bikes.shop
+342,Cassondra,Pruitt,cassondra.pruitt@aol.com,910,2017-05-26,2017-05-28,2017-05-28,7,"Baldwin Bikes",baldwin@bikes.shop
+887,Graig,Cannon,graig.cannon@gmail.com,911,2017-05-26,2017-05-29,2017-05-29,6,"Baldwin Bikes",baldwin@bikes.shop
+699,Zella,Fernandez,zella.fernandez@yahoo.com,913,2017-05-27,2017-05-29,2017-05-29,6,"Baldwin Bikes",baldwin@bikes.shop
+215,Judith,Finley,judith.finley@hotmail.com,915,2017-05-28,2017-05-30,2017-05-30,6,"Baldwin Bikes",baldwin@bikes.shop
+718,Luciana,Mcgee,luciana.mcgee@msn.com,916,2017-05-28,2017-05-29,2017-05-29,6,"Baldwin Bikes",baldwin@bikes.shop
+781,Tajuana,Riddle,tajuana.riddle@hotmail.com,919,2017-05-30,2017-05-31,2017-05-31,7,"Baldwin Bikes",baldwin@bikes.shop
+966,Novella,Patel,novella.patel@gmail.com,920,2017-05-30,2017-06-01,2017-06-02,7,"Baldwin Bikes",baldwin@bikes.shop
+628,Ehtel,Cobb,ehtel.cobb@hotmail.com,921,2017-05-31,2017-06-02,2017-06-02,6,"Baldwin Bikes",baldwin@bikes.shop
+656,Romana,Barnes,romana.barnes@yahoo.com,922,2017-05-31,2017-06-01,2017-06-03,6,"Baldwin Bikes",baldwin@bikes.shop
+769,Agatha,Melton,agatha.melton@yahoo.com,923,2017-05-31,2017-06-03,2017-06-02,7,"Baldwin Bikes",baldwin@bikes.shop
+1316,Conrad,Mueller,conrad.mueller@yahoo.com,925,2017-06-02,2017-06-05,2017-06-03,7,"Baldwin Bikes",baldwin@bikes.shop
+472,Myron,Ruiz,myron.ruiz@gmail.com,929,2017-06-05,2017-06-06,2017-06-08,6,"Baldwin Bikes",baldwin@bikes.shop
+631,Tressa,Weiss,tressa.weiss@msn.com,931,2017-06-07,2017-06-08,2017-06-08,6,"Baldwin Bikes",baldwin@bikes.shop
+804,Douglas,Richards,douglas.richards@hotmail.com,932,2017-06-07,2017-06-08,2017-06-09,6,"Baldwin Bikes",baldwin@bikes.shop
+909,Alita,Salinas,alita.salinas@hotmail.com,933,2017-06-07,2017-06-10,2017-06-08,6,"Baldwin Bikes",baldwin@bikes.shop
+93,Corrina,Sawyer,corrina.sawyer@yahoo.com,934,2017-06-09,2017-06-10,2017-06-12,7,"Baldwin Bikes",baldwin@bikes.shop
+265,Mellisa,Farley,mellisa.farley@yahoo.com,936,2017-06-10,2017-06-13,2017-06-12,6,"Baldwin Bikes",baldwin@bikes.shop
+73,Melanie,Hayes,melanie.hayes@msn.com,937,2017-06-11,2017-06-14,2017-06-13,7,"Baldwin Bikes",baldwin@bikes.shop
+129,Walton,Dejesus,walton.dejesus@yahoo.com,938,2017-06-11,2017-06-12,2017-06-12,6,"Baldwin Bikes",baldwin@bikes.shop
+1407,Hugh,Craft,hugh.craft@msn.com,939,2017-06-11,2017-06-12,2017-06-14,6,"Baldwin Bikes",baldwin@bikes.shop
+537,Carter,Bentley,carter.bentley@yahoo.com,942,2017-06-13,2017-06-16,2017-06-15,6,"Baldwin Bikes",baldwin@bikes.shop
+1025,Daphine,Willis,daphine.willis@msn.com,943,2017-06-13,2017-06-15,2017-06-15,6,"Baldwin Bikes",baldwin@bikes.shop
+167,Loreta,Johnston,loreta.johnston@yahoo.com,945,2017-06-14,2017-06-15,2017-06-16,7,"Baldwin Bikes",baldwin@bikes.shop
+525,Andreas,Mayer,andreas.mayer@hotmail.com,946,2017-06-14,2017-06-16,2017-06-15,6,"Baldwin Bikes",baldwin@bikes.shop
+618,Skye,Pope,skye.pope@yahoo.com,948,2017-06-15,2017-06-17,2017-06-17,6,"Baldwin Bikes",baldwin@bikes.shop
+142,Nicholas,Vazquez,nicholas.vazquez@hotmail.com,950,2017-06-16,2017-06-19,2017-06-18,6,"Baldwin Bikes",baldwin@bikes.shop
+339,Tamela,Harrell,tamela.harrell@aol.com,951,2017-06-16,2017-06-19,2017-06-19,7,"Baldwin Bikes",baldwin@bikes.shop
